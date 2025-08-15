@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_GAIUSC909_01044_SEQ_00,青磷精煉所的梅梅佐夫，正在忙於調製藥物。
-1,TEXT_GAIUSC909_01044_SEQ_01,梅梅佐夫使用冒險者送來的藥材製出了藥。對勞班緩衝地的受傷的士兵使用<hex:022811FF0A>EventItem<hex:F61E87950103>。
+1,TEXT_GAIUSC909_01044_SEQ_01,梅梅佐夫使用冒險者送來的藥材制出了藥。對勞班緩衝地的受傷的士兵使用<hex:022811FF0A>EventItem<hex:F61E87950103>。
 2,TEXT_GAIUSC909_01044_SEQ_02,對所有的傷兵使用了<hex:022811FF0A>EventItem<hex:F61E87950103>。去向青磷精煉所的梅梅佐夫報告。
 3,TEXT_GAIUSC909_01044_SEQ_03,向梅梅佐夫報告完畢。他曾經也是前線的士兵，但因為負傷無法戰鬥，從而當了衛生兵。
 4,TEXT_GAIUSC909_01044_SEQ_04,

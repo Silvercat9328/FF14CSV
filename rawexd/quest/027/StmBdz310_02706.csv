@@ -8,7 +8,7 @@ int32,str,str
 3,TEXT_STMBDZ310_02706_SEQ_03,從將民間故事集贈送給紅的旅行商人印章那裡得到了關於靈藥的情報。其原材料是紅玉海絕跡的夢幻大螺<hex:02280FFF09>BNpcName<hex:F2171E0103>。和紅玉海鏡仙洞的紅交談。
 4,TEXT_STMBDZ310_02706_SEQ_04,和紅進行了交談。在鏡仙洞的<hex:02280CFF05>EObj<hex:F61EA6E90103>使用<hex:022811FF0A>EventItem<hex:F61E8D9C0103>，擊倒出現的<hex:02280FFF09>BNpcName<hex:F2171E0103>，獲得<hex:022811FF0A>EventItem<hex:F61E8D9D0103>。
 5,TEXT_STMBDZ310_02706_SEQ_05,打倒了<hex:02280FFF09>BNpcName<hex:F2171E0103>。把<hex:022811FF0A>EventItem<hex:F61E8D9D0103>交給紅。
-6,TEXT_STMBDZ310_02706_SEQ_06,碧玉水的印章答應製作靈藥。返回翠水鄉，和紅交談。
+6,TEXT_STMBDZ310_02706_SEQ_06,碧玉水的印章答應制作靈藥。返回翠水鄉，和紅交談。
 7,TEXT_STMBDZ310_02706_SEQ_07,和紅進行了交談。接下來，只剩等待靈藥製作完成。一心想要讓摯友翡翠甦醒的紅的願望，是否會實現？
 8,TEXT_STMBDZ310_02706_SEQ_08,
 9,TEXT_STMBDZ310_02706_SEQ_09,
