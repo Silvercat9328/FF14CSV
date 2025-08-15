@@ -175,7 +175,7 @@ int32,str
 170,<hex:021E020C03>規則
 171,<hex:021E020B03>次級指令  <hex:021E020903>選擇道具
 172,<hex:021E020A03>選擇關閉按鈕
-173,"------------------------<hex:02100103>lua 5.1.4 / MIT License<hex:02100103>------------------------<hex:02100103>Copyright (C) 1994-2008 Lua.org, PUC-Rio.<hex:02100103><hex:02100103>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: <hex:02100103><hex:02100103>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<hex:02100103><hex:02100103>THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<hex:02100103><hex:02100103><hex:02100103>------------------------<hex:02100103>rsa-md5 / RSA Data Security License<hex:02100103>------------------------<hex:02100103>Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.<hex:02100103><hex:02100103>License to copy and use this software is granted provided that it is identified as the “RSA Data Security, Inc. MD5 Message-Digest Algorithm” in all material mentioning or referencing this software or this function.<hex:02100103><hex:02100103>License is also granted to make and use derivative works provided that such works are identified as “derived from the RSA Data Security, Inc. MD5 Message-Digest Algorithm” in all material mentioning or referencing the derived work.<hex:02100103><hex:02100103>RSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided “as is” without express or implied warranty of any kind.<hex:02100103><hex:02100103>These notices must be retained in any copies of any part of this documentation and/or software. <hex:02100103><hex:02100103><hex:02100103>------------------------<hex:02100103>SHA-1 (Internet Society)<hex:02100103>------------------------<hex:02100103>Copyright (C) The Internet Society (2001). All Rights Reserved.<hex:02100103><hex:02100103>This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself may not be modified in any way, such as by removing the copyright notice or references to the Internet Society or other Internet organizations, except as needed for the purpose of developing Internet standards in which case the procedures for copyrights defined in the Internet Standards process must be followed, or as required to translate it into languages other than English.<hex:02100103><hex:02100103>The limited permissions granted above are perpetual and will not be revoked by the Internet Society or its successors or assigns.<hex:02100103><hex:02100103>This document and the information contained herein is provided on an “AS IS” basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.<hex:02100103><hex:02100103>Acknowledgement<hex:02100103><hex:02100103>Funding for the RFC Editor function is currently provided by the Internet Society.<hex:02100103><hex:02100103><hex:02100103>----------------<hex:02100103>zstream.h (zlib)<hex:02100103>----------------<hex:02100103>Copyright (c) 1997<hex:02100103>Christian Michelsen Research AS<hex:02100103>Advanced Computing<hex:02100103>Fantoftvegen 38, 5036 BERGEN, Norway<hex:02100103>http://www.cmr.no<hex:02100103><hex:02100103>Permission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided “as is” without express or implied warranty.<hex:02100103><hex:02100103><hex:02100103>------<hex:02100103>LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER<hex:02100103>------<hex:02100103>“DUALSHOCK” and “DualSense” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.<hex:02100103>Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
+173,"------------------------<hex:02100103>lua 5.1.4 / MIT License<hex:02100103>------------------------<hex:02100103>Copyright (C) 1994-2008 Lua.org, PUC-Rio.<hex:02100103><hex:02100103>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 「Software」), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: <hex:02100103><hex:02100103>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<hex:02100103><hex:02100103>THE SOFTWARE IS PROVIDED 「AS IS」, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<hex:02100103><hex:02100103><hex:02100103>------------------------<hex:02100103>rsa-md5 / RSA Data Security License<hex:02100103>------------------------<hex:02100103>Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.<hex:02100103><hex:02100103>License to copy and use this software is granted provided that it is identified as the 「RSA Data Security, Inc. MD5 Message-Digest Algorithm」 in all material mentioning or referencing this software or this function.<hex:02100103><hex:02100103>License is also granted to make and use derivative works provided that such works are identified as 「derived from the RSA Data Security, Inc. MD5 Message-Digest Algorithm」 in all material mentioning or referencing the derived work.<hex:02100103><hex:02100103>RSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided 「as is」 without express or implied warranty of any kind.<hex:02100103><hex:02100103>These notices must be retained in any copies of any part of this documentation and/or software. <hex:02100103><hex:02100103><hex:02100103>------------------------<hex:02100103>SHA-1 (Internet Society)<hex:02100103>------------------------<hex:02100103>Copyright (C) The Internet Society (2001). All Rights Reserved.<hex:02100103><hex:02100103>This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself may not be modified in any way, such as by removing the copyright notice or references to the Internet Society or other Internet organizations, except as needed for the purpose of developing Internet standards in which case the procedures for copyrights defined in the Internet Standards process must be followed, or as required to translate it into languages other than English.<hex:02100103><hex:02100103>The limited permissions granted above are perpetual and will not be revoked by the Internet Society or its successors or assigns.<hex:02100103><hex:02100103>This document and the information contained herein is provided on an 「AS IS」 basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.<hex:02100103><hex:02100103>Acknowledgement<hex:02100103><hex:02100103>Funding for the RFC Editor function is currently provided by the Internet Society.<hex:02100103><hex:02100103><hex:02100103>----------------<hex:02100103>zstream.h (zlib)<hex:02100103>----------------<hex:02100103>Copyright (c) 1997<hex:02100103>Christian Michelsen Research AS<hex:02100103>Advanced Computing<hex:02100103>Fantoftvegen 38, 5036 BERGEN, Norway<hex:02100103>http://www.cmr.no<hex:02100103><hex:02100103>Permission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided 「as is」 without express or implied warranty.<hex:02100103><hex:02100103><hex:02100103>------<hex:02100103>LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER<hex:02100103>------<hex:02100103>「DUALSHOCK」 and 「DualSense」 are registered trademarks or trademarks of Sony Interactive Entertainment Inc.<hex:02100103>Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
 174,<hex:021E020D03><hex:021E020E03>選擇分類
 175,<hex:021E020D03><hex:021E020E03>切換工程  <hex:021E020B03>次級指令
 176,<hex:021E020D03><hex:021E020E03>切換工程  <hex:021E020B03>次級指令
@@ -238,8 +238,8 @@ int32,str
 233,<hex:021E020B03>次級指令
 234,<hex:021E020B03>次級指令
 235,<hex:021E020B03>設定熱鍵  <hex:021E020903>發動
-236,<hex:021E020903>設定對戰額外技能
-237,<hex:021E020B03>次級指令 <hex:021E020903>選擇
+236,<hex:021E020903>選擇對戰專用職能技能
+237,<hex:021E020B03>設定熱鍵 <hex:021E020903>發動
 238,<hex:021E020403><hex:021E020503>移動 <hex:021E020903>確定
 239,<hex:021E021803>滾動 <hex:021E020C03>切換地圖類型 <hex:021E020D03>+ <hex:021E020B03>切換 <hex:021E020D03>+ <hex:021E021803>縮放
 240,<hex:021E020903>設定對戰特性
@@ -496,16 +496,116 @@ int32,str
 491,<hex:021E020C03><hex:020843E802FF1F>開啟網格移動調整功能<hex:FF1F>關閉網格移動調整功能<hex:03>
 492,<hex:021E020903>選擇
 493,<hex:021E020B03>次級指令 <hex:021E020903>裝備
-494,
-495,
-496,
-497,
-498,
-499,
-500,
+494,<hex:021E020C03>簡易採集 開啟/關閉
+495,<hex:021E020C03>開始製作
+496,<hex:021E020B03>次級指令
+497,<hex:021E020B03>次級指令
+498,<hex:021E020C03>應用
+499,<hex:021E021903>滾動查看詳細情報
+500,<hex:021E021903> 滾動查看詳細情報
+501,<hex:021E021903>滾動查看詳細情報
+502,<hex:021E020B03>次級指令
+503,<hex:021E020B03>顯示地圖
+504,
+505,
+506,
+507,
+508,
+509,
+510,
+511,
+512,
+513,
+514,
+515,
+516,
+517,
+518,
+519,
+520,
+521,
+522,
+523,
+524,
+525,
+526,
+527,
+528,
+529,
+530,
+531,
+532,
+533,
+534,
+535,
+536,
+537,
+538,
+539,
+540,
+541,
+542,
+543,
+544,
+545,
+546,
+547,
+548,
+549,
+550,
+551,
+552,
+553,
+554,
+555,
+556,
+557,
+558,
+559,
+560,
+561,
+562,
+563,
+564,
+565,
+566,
+567,
+568,
+569,
+570,
+571,
+572,
+573,
+574,
+575,
+576,
+577,
+578,
+579,
+580,
+581,
+582,
+583,
+584,
+585,
+586,
+587,
+588,
+589,
+590,
+591,
+592,
+593,
+594,
+595,
+596,
+597,
+598,
+599,
+600,
 1000,報告發送失敗。<hex:02100103>請重新發送。
-1001,"<hex:024804F2020203>任務回顧中的基本操作<hex:0248020103><hex:02100103>※鍵位設定中可更改對應鍵盤滑鼠的按鍵。<hex:02100103><hex:0208F20306E4E94F64FFF2017A>·調整視角<hex:02100103>　<hex:021E021503>搖桿／[W,A,S,D]鍵（移動）<hex:02100103>·重置視角<hex:02100103>　<hex:0212021103>鍵／[Z]鍵（拔出/收回武器）<hex:02100103>·切換注視目標<hex:02100103>　<hex:021E020803>方向鍵／[<hex:020823E4E94F04FF0E>tab,shift+tab<hex:FF0E>Tab,Shift+Tab<hex:03>]鍵<hex:02100103>·暫停／繼續<hex:02100103>　<hex:021E020C03>鍵／[<hex:020815E4E94F04FF07>空格<hex:FF07>空格<hex:03>]鍵（跳躍）<hex:02100103>·開啟關閉操作選單<hex:02100103>　<hex:021E020B03>鍵／[R]鍵、鍵（自動前進）<hex:FFF20180>·調整視角<hex:02100103>　[W,A,S,D]鍵（移動）／  <hex:021E021503>搖桿<hex:02100103>·重置視角<hex:02100103>　[Z]鍵（拔出/收回武器）／ <hex:0212021103>鍵<hex:02100103>·切換注視目標<hex:02100103>　[<hex:020823E4E94F04FF0E>tab,shift+tab<hex:FF0E>Tab,Shift+Tab<hex:03>]鍵／ <hex:021E020803>方向鍵<hex:02100103>·暫停／繼續<hex:02100103>　[<hex:020815E4E94F04FF07>空格<hex:FF07>空格<hex:03>]鍵（跳躍）／ <hex:021E020C03>鍵<hex:02100103>·開啟關閉操作選單<hex:02100103>　[R]鍵、鍵（自動前進）／ <hex:021E020B03>鍵<hex:03><hex:02100103><hex:02100103>--------------------------------------------------------------------<hex:02100103><hex:024804F2020203>任務記錄方法<hex:0248020103><hex:02100103>想要將攻略任務的過程記錄下來，需要滿足以下條件。<hex:02100103>　1.任務記錄設定設為開啟<hex:02100103>　2.進入的任務適用任務回顧功能<hex:02100103>　3.以規定人數進入任務<hex:02100103>　4.進行記錄準備確認<hex:02100103><hex:02100103><hex:024804F2020203>1.任務記錄設定設為開啟<hex:0248020103><hex:02100103>設定是否對任務過程進行記錄。<hex:02100103>將本設定設為開啟後，滿足其他條件時即會對任務過程進行記錄。<hex:02100103>將本設定設為關閉後，滿足其他條件時自身角色不會對任務過程進行記錄。<hex:02100103><hex:02100103><hex:024804F2020203>2.進入的任務適用任務回顧功能<hex:0248020103><hex:02100103>任務回顧功能僅對部分任務適用。<hex:02100103>因此需要進入適用的任務才可進行記錄。<hex:02100103><hex:02100103><hex:024804F2020203>3.以規定人數進入任務<hex:0248020103><hex:02100103>只有以規定人數進入任務時才能對任務進行記錄。<hex:02100103>※規定人數以下組隊匹配進任務時無法進行記錄。<hex:02100103><hex:02100103><hex:024804F2020203>4.進行記錄準備確認<hex:0248020103><hex:02100103>開始記錄任務前需要通過記錄準備確認來確認隊友們是否同意進行記錄。<hex:02100103>只有全員同意時才能開始記錄。<hex:02100103>※記錄準備確認需要在進入任務後5分鐘內發起。<hex:02100103><hex:02100103>滿足上述條件後即會對任務過程進行記錄。<hex:02100103>記錄已滿時，新的記錄會覆蓋最老的記錄。<hex:02100103>※可鎖定最多2條記錄禁止覆蓋。<hex:02100103><hex:02100103>--------------------------------------------------------------------<hex:02100103><hex:024804F2020203>回顧記錄的方法<hex:0248020103><hex:02100103>回顧記錄需要滿足以下條件。<hex:02100103>　1.在旅館中<hex:02100103>　2.任務記錄為最新版本<hex:02100103><hex:02100103><hex:024804F2020203>1.在旅館中<hex:0248020103><hex:02100103>只有在旅館中能回顧記錄好的任務。<hex:02100103><hex:02100103><hex:024804F2020203>2.任務記錄為最新版本<hex:0248020103><hex:02100103>任務回顧僅能回顧最新版本的記錄。<hex:02100103>不只大版本更新，小版本或補丁也會導致從前的記錄失效，敬請注意。"
-1002,"<hex:024804F2020203>任務回顧中的基本操作<hex:0248020103><hex:02100103>※鍵位設定中可更改對應鍵盤滑鼠的按鍵。<hex:02100103><hex:0208F20306E4E94F64FFF2017A>·調整視角<hex:02100103>　<hex:021E021503>搖桿／[W,A,S,D]鍵（移動）<hex:02100103>·重置視角<hex:02100103>　<hex:0212021103>鍵／[Z]鍵（拔出/收回武器）<hex:02100103>·切換注視目標<hex:02100103>　<hex:021E020803>方向鍵／[<hex:020823E4E94F04FF0E>tab,shift+tab<hex:FF0E>Tab,Shift+Tab<hex:03>]鍵<hex:02100103>·暫停／繼續<hex:02100103>　<hex:021E020C03>鍵／[<hex:020815E4E94F04FF07>空格<hex:FF07>空格<hex:03>]鍵（跳躍）<hex:02100103>·開啟關閉操作選單<hex:02100103>　<hex:021E020B03>鍵／[R]鍵、鍵（自動前進）<hex:FFF20180>·調整視角<hex:02100103>　[W,A,S,D]鍵（移動）／  <hex:021E021503>搖桿<hex:02100103>·重置視角<hex:02100103>　[Z]鍵（拔出/收回武器）／ <hex:0212021103>鍵<hex:02100103>·切換注視目標<hex:02100103>　[<hex:020823E4E94F04FF0E>tab,shift+tab<hex:FF0E>Tab,Shift+Tab<hex:03>]鍵／ <hex:021E020803>方向鍵<hex:02100103>·暫停／繼續<hex:02100103>　[<hex:020815E4E94F04FF07>空格<hex:FF07>空格<hex:03>]鍵（跳躍）／ <hex:021E020C03>鍵<hex:02100103>·開啟關閉操作選單<hex:02100103>　[R]鍵、鍵（自動前進）／ <hex:021E020B03>鍵<hex:03><hex:02100103><hex:02100103>-------------------------------------------------------------------<hex:02100103><hex:024804F2020203>【操作選單上的機能】<hex:0248020103><hex:02100103><hex:02100103><hex:024804F2020203>暫停／繼續<hex:0248020103><hex:02100103>暫停或繼續進行回顧。<hex:02100103><hex:02100103><hex:024804F2020203>章節選擇<hex:0248020103><hex:02100103>顯示記錄時設定的章節列表，選擇其中任意章節後可跳至該章節進行回顧。<hex:02100103>※跳轉所需時間根據所選章節不同會有所差距。<hex:02100103><hex:02100103><hex:024804F2020203>上一個章節<hex:0248020103><hex:02100103>跳到先前的章節。<hex:02100103><hex:02100103><hex:024804F2020203>下一個章節<hex:0248020103><hex:02100103>跳到之後的章節。<hex:02100103><hex:02100103><hex:024804F2020203>顯示／隱藏介面<hex:0248020103><hex:02100103>將各種介面在顯示與隱藏間切換。<hex:02100103>※選為隱藏後在下次回顧時會自動隱藏介面開始回顧。<hex:02100103><hex:02100103><hex:024804F2020203>設定／解除焦點目標<hex:0248020103><hex:02100103>將注視目標設為焦點目標。<hex:02100103><hex:02100103><hex:024804F2020203>結束回顧<hex:0248020103><hex:02100103>結束回顧退出。"
+1001,
+1002,
 1003,關於同好會
 1004,同好會是擁有相同興趣的玩家組建的團體。<hex:02100103>每個同好會最多可容納1000名成員。<hex:02100103><hex:02100103>玩家可選擇自己建立同好會，<hex:02100103>也可通過邀請或同好招募召集同好或加入別人建立的同好會。<hex:02100103>同好會可跨服，每個角色最多可同時隸屬於10個同好會。<hex:02100103>在快捷指令的社交中可以看到同好招募選項。<hex:02100103><hex:02100103>同好會成員分為會長（建立同好會的玩家或被移交了會長許可權的玩家），<hex:02100103>會長任命的管理員，<hex:02100103>還有除此之外的一般成員。<hex:02100103><hex:02100103>加入同好會後，即可使用同好會相關的各項機能。
 1005,關於「一覽」
@@ -533,9 +633,9 @@ int32,str
 1027,收藏品
 1028,收藏品就是擁有特殊收藏價值的道具。<hex:02100103><hex:02100103>收藏價值用於表示每個收藏品的價值。<hex:02100103><hex:02100103>有時非玩家角色會要求玩家交納收藏品，<hex:02100103>同時也會標明需求的收藏品需要具備的收藏價值。<hex:02100103><hex:02100103>請努力採集滿足指定收藏價值的收藏品。
 1029,如何獲得收藏品
-1030,採礦工以及園藝工獲得收藏品的方式不同於通常的採集，<hex:02100103>需要通過收藏品採集視窗進行採集。<hex:02100103><hex:02100103>通過收藏品採集視窗<hex:02100103>可以提升收藏品的價值並採集到具有該收藏價值的收藏品。
+1030,採礦工以及園藝工獲得收藏品的方式不同於通常的採集，<hex:02100103>需要通過收藏品採集窗口進行採集。<hex:02100103><hex:02100103>通過收藏品採集窗口<hex:02100103>可以提升收藏品的價值並採集到具有該收藏價值的收藏品。
 1031,如何提高收藏價值
-1032,提升收藏價值時需要使用提純技能。<hex:02100103><hex:02100103>通過收藏品採集視窗使用提純技能，<hex:02100103>可以除去收藏品的雜質，從而提升收藏價值。<hex:02100103><hex:02100103>不過作為代價，將會消耗本次採集的耐久，<hex:02100103>請留意剩餘的耐久。<hex:02100103><hex:02100103>除了提純技能以外，採集收藏品時也會消耗耐久，<hex:02100103>是優先提高收藏品價值還是專注於採集收藏品，<hex:02100103>需要玩家慎重考慮。
+1032,提升收藏價值時需要使用提純技能。<hex:02100103><hex:02100103>通過收藏品採集窗口使用提純技能，<hex:02100103>可以除去收藏品的雜質，從而提升收藏價值。<hex:02100103><hex:02100103>不過作為代價，將會消耗本次採集的耐久，<hex:02100103>請留意剩餘的耐久。<hex:02100103><hex:02100103>除了提純技能以外，採集收藏品時也會消耗耐久，<hex:02100103>是優先提高收藏品價值還是專注於採集收藏品，<hex:02100103>需要玩家慎重考慮。
 1033,提純技能
 1034,提純技能有三種，<hex:02100103>分別是提純、大膽提純、慎重提純。<hex:02100103>不論使用其中哪種技能，都會消耗1點耐久。<hex:02100103><hex:02100103>▼提純<hex:02100103>能夠穩定地提升收藏價值，是最基本的提純技能。<hex:02100103><hex:02100103>▼大膽提純<hex:02100103>該技能會在一定範圍內提升收藏品價值，<hex:02100103>運氣好的話收藏品價值將得到大幅提升。<hex:02100103>如果能夠採集到目標收藏品的地點較多，<hex:02100103>可以試著使用該技能，也許能夠更高效地獲得收藏品。<hex:02100103><hex:02100103>▼慎重提純<hex:02100103>雖然比提純提升的收藏價值要低，<hex:02100103>不過運氣好的話，有可能不會消耗耐久。<hex:02100103>如果使用慎重提純即可提升到目標的收藏價值，<hex:02100103>則可以積極地使用該技能。<hex:02100103><hex:02100103>※提純技能的效果<hex:02100103>會隨著玩家獲得力的提高而上升，<hex:02100103>請通過裝備提升自己的獲得力。
 1035,獲得收藏品
@@ -581,7 +681,7 @@ int32,str
 1075,大、中、小號的房屋都可以使用「內部改建」功能。<hex:02100103>個人房間和公寓則無法使用此功能。<hex:02100103><hex:02100103>此外，由於內部改建會大幅變更室內布局，<hex:02100103>所以已布置的家具會被全部收入倉庫。<hex:02100103>因此，當倉庫容量不足時，會無法使用內部改建功能。<hex:02100103><hex:02100103>另外，當房屋距離被自動拆除剩餘不足15天時，<hex:02100103>也無法使用內部改建功能。<hex:02100103>
 1076,內部改建的必要許可權
 1077,執行內部改建需要相應的房屋許可權。<hex:02100103><hex:02100103>部隊房屋的執行人需要有「更改內外裝潢」、<hex:02100103>「可以追加、收回或布置家具庭具」兩項許可權。<hex:02100103><hex:02100103>個人房屋的執行人如果不是房主，則需要<hex:02100103>「內外裝潢、家具、庭具的追加、收回、布置、染色」許可權。<hex:02100103>
-1078,
+1078,●デイリーミッションをクリアすることで、デイリーPtが獲得でき、一定を超えると報酬を獲得できます。<hex:02100103>デイリーミッションのクリア狀況は毎日5:00にリセットされます。
 1079,
 1080,
 1081,

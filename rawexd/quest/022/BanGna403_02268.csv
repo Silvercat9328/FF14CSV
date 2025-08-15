@@ -6,7 +6,7 @@ int32,str,str
 1,TEXT_BANGNA403_02268_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>眼神好委託冒險者收集供給聖菲內雅連隊的酒的材料。在陸行鳥之森獲取3個<hex:022811FF0A>EventItem<hex:F61E8C270103>。
 2,TEXT_BANGNA403_02268_SEQ_02,獲得了3個<hex:022811FF0A>EventItem<hex:F61E8C270103>。將<hex:022811FF0A>EventItem<hex:F61E8C270103>交給自由腦窟穴的眼神好。
 3,TEXT_BANGNA403_02268_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8C270103>交給了眼神好。他好像用了什麼奇怪的方法，馬上釀製出了<hex:022811FF0A>EventItem<hex:F61E8C280103>。但是，等著急了的聖菲內雅連隊騎兵已經過來拿酒了。眼神好委託冒險者將發酵好的<hex:022811FF0A>EventItem<hex:F61E8C280103>交給聖菲內雅連隊騎兵。
-4,TEXT_BANGNA403_02268_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8C280103>交給了聖菲內雅連隊騎兵。他連材料和釀製方法都不知道，但還是開心地拿回去了。
+4,TEXT_BANGNA403_02268_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8C280103>交給了聖菲內雅連隊騎兵。他連材料和釀制方法都不知道，但還是開心地拿回去了。
 5,TEXT_BANGNA403_02268_SEQ_05,
 6,TEXT_BANGNA403_02268_SEQ_06,
 7,TEXT_BANGNA403_02268_SEQ_07,
@@ -57,7 +57,7 @@ int32,str,str
 52,TEXT_BANGNA403_02268_KIHEI02268_100_030,哈哈，等得太著急就跑到這裡來了。<hex:02100103>快點把<hex:022811FF0A>EventItem<hex:F61E8C280103>給我吧。
 53,TEXT_BANGNA403_02268_SEARCHER_000_010,嘁嘁嘁……回來啦。<hex:02100103>把<hex:022811FF0A>EventItem<hex:F61E8C270103>給我吧。
 54,TEXT_BANGNA403_02268_SEARCHER_000_011,不錯，這些果實都熟得很透。<hex:02100103>稍等一下，馬上就好。<hex:02100103>要促使果實發酵，這個方法是最好的……
-55,TEXT_BANGNA403_02268_SEARCHER_000_012,咕哢咕哢……咕咕……<hex:02100103>咻咕咻咕……哞咕哞咕……呸啾呸啾……
+55,TEXT_BANGNA403_02268_SEARCHER_000_012,咕咔咕咔……咕咕……<hex:02100103>咻咕咻咕……哞咕哞咕……呸啾呸啾……
 56,TEXT_BANGNA403_02268_SEARCHER_000_013,嘁嘁嘁……接下來再發酵一會就完成了。<hex:02100103>但是，心急的人類騎兵居然到這裡來取貨了。<hex:02100103>你去把發酵好的<hex:022811FF0A>EventItem<hex:F61E8C280103>交給他吧。
 57,TEXT_BANGNA403_02268_SEARCHER_000_014,（★未使用／削除予定★）
 58,TEXT_BANGNA403_02268_SEARCHER_000_015,（★未使用／削除予定★）

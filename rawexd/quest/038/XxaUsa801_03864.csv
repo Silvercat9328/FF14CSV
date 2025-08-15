@@ -5,7 +5,7 @@ int32,str,str
 0,TEXT_XXAUSA801_03864_SEQ_00,秋瓜浮村的開山工埃蒂恩想和冒險者談談最近發現的屍體的事情。
 1,TEXT_XXAUSA801_03864_SEQ_01,埃蒂恩認為受害者們有可能是遭到了<hex:02280EFF09>BNpcName<hex:F0E00103>襲擊。打倒3隻<hex:02280EFF09>BNpcName<hex:F0E00103>，調查是否有怪異事件的線索。
 2,TEXT_XXAUSA801_03864_SEQ_02,打倒了3隻<hex:02280EFF09>BNpcName<hex:F0E00103>，但是沒發現任何線索。向埃蒂恩報告。
-3,TEXT_XXAUSA801_03864_SEQ_03,兇手是<hex:02280EFF09>BNpcName<hex:F0E00103>的可能性被消去了。埃蒂恩對面具男和眼球怪產生了懷疑。
+3,TEXT_XXAUSA801_03864_SEQ_03,凶手是<hex:02280EFF09>BNpcName<hex:F0E00103>的可能性被消去了。埃蒂恩對面具男和眼球怪產生了懷疑。
 4,TEXT_XXAUSA801_03864_SEQ_04,
 5,TEXT_XXAUSA801_03864_SEQ_05,
 6,TEXT_XXAUSA801_03864_SEQ_06,

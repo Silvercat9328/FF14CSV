@@ -53,7 +53,7 @@ int32,str,str
 48,TEXT_STMBDZ524_02775_OGODEI_000_000,你現在不忙吧？<hex:02100103>有件只能拜託給部落外人的事想請你幫忙……
 49,TEXT_STMBDZ524_02775_OGODEI_000_001,其實，孩子差不多快要出生了，<hex:02100103>我想為那孩子製作一條暖和的毛毯，<hex:02100103>不過不想讓家裡人看到我著急的樣子……
 50,TEXT_STMBDZ524_02775_OGODEI_000_002,所以，我想請你去幫忙收集做毛毯的材料。<hex:02100103>請去這裡的東北邊，打倒<hex:02280FFF09>BNpcName<hex:F216950103>，<hex:02100103>獲取3個<hex:022811FF0A>EventItem<hex:F61E8D770103>。
-51,TEXT_STMBDZ524_02775_OGODEI_000_003,然後再去獲取<hex:022811FF0A>EventItem<hex:F61E8D780103>，<hex:02100103>北邊隨處可見的矮樹根部就有這東西。<hex:02100103>有了它，就可以製作鞣製毛皮的煮湯了。
+51,TEXT_STMBDZ524_02775_OGODEI_000_003,然後再去獲取<hex:022811FF0A>EventItem<hex:F61E8D780103>，<hex:02100103>北邊隨處可見的矮樹根部就有這東西。<hex:02100103>有了它，就可以製作鞣制毛皮的煮湯了。
 52,TEXT_STMBDZ524_02775_OGODEI_000_004,總之，我想做足準備迎接孩子出生。<hex:02100103>如果拿到這兩樣東西了就拿來給我吧。<hex:02100103>拜託你了！
 53,TEXT_STMBDZ524_02775_OGODEI_000_005,要3個在東北邊的<hex:02280FFF09>BNpcName<hex:F216950103>身上可以獲取的<hex:022811FF0A>EventItem<hex:F61E8D770103>，<hex:02100103>和1個北邊隨處可見的落在矮樹根部的<hex:022811FF0A>EventItem<hex:F61E8D780103>。
 54,TEXT_STMBDZ524_02775_OGODEI_000_010,拿到<hex:022811FF0A>EventItem<hex:F61E8D770103>和<hex:022811FF0A>EventItem<hex:F61E8D780103>了嗎？

@@ -110,4 +110,5 @@ int32,str,str,str
 105,靈力量譜,,
 106,畫布量譜,,
 107,調色量譜,,
-108,,,
+108,紛爭前線：戰況情報,Frontline:CampaignInfo,
+109,宇宙探索：情報,CosmoExplorer:Info,

@@ -197,9 +197,9 @@ int32,str
 192,simple
 193,簡單
 194,firstname
-195,名
+195,first
 196,familyname
-197,姓
+197,family
 198,lookingforparty
 199,希望組隊
 200,leader
@@ -473,11 +473,11 @@ int32,str
 468,rightsaddlebag
 469,陸行鳥鞍囊2
 470,gton
-471,gton
+471,地面開
 472,gtoff
-473,gtoff
+473,地面關
 474,enemypc
-475,enemypc
+475,敵人
 476,attack6
 477,攻擊6
 478,attack7
@@ -496,6 +496,8 @@ int32,str
 491,職業量譜1
 492,JobGauge2
 493,職業量譜2
+494,PvP Role Action
+495,對戰專用職能技能
 1000,<t>
 1001,<目標>
 1002,<tt>
