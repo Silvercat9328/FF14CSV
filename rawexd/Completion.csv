@@ -1,4 +1,4 @@
-key,2,3,4
+﻿key,2,3,4
 #,LookupTable,Text,GroupTitle
 offset,8,0,4
 int32,str,str,str
@@ -739,6 +739,7 @@ int32,str,str,str
 1664,,大地橙票,orange gatherers' scrip
 1665,,宇宙信用點,Cosmocredit
 1666,,月球信用點,Lunar Credit
+1667,,法恩娜信用點,Phaenna Credit
 1900,@,【蠻神與蠻族】,Primals.
 1901,,蠻神,primal
 1902,,伊弗利特,Ifrit
@@ -1309,16 +1310,16 @@ int32,str,str,str
 4048,,宇宙探索,Cosmic Exploration
 4049,,宇宙工具,Cosmic Tool
 4050,,探索任務,Stellar Mission
-4051,,知識見聞,knowledge
-4052,,知識等級,knowledge level
+4051,,知見,knowledge
+4052,,知見等級,knowledge level
 4053,,輔助職業,phantom job
 4054,,輔助技能,phantom action
 4055,,幻境武器,phantom weapon
 4056,,亞拉戈數理神典石,Allagan tomestone of mathematics
 4057,,聯合工程,Cosmic Exploration Projects
 4058,,機甲行動,Mech Ops
-4059,,十二都市銀幣,Enlightenment silver piece
-4060,,十二都市金幣,Enlightenment gold piece
+4059,,十二城邦銀幣,Enlightenment silver piece
+4060,,十二城邦金幣,Enlightenment gold piece
 4061,,魔紋啟動憑證：力量之塔,sanguine cipher
 5000,,大型任務,normal raid
 5001,,每日挑戰,daily challenge
@@ -1474,17 +1475,16 @@ int32,str,str,str
 5160,,暗黑之雲誅滅戰,Cloud of Darkness (Chaotic)
 5161,,誅滅戰,chaotic alliance raid
 5162,,中量級,Cruiserweight
-5163,,朱雀幻巧戰,Hells' Kier (Unreal)
 5164,,澤蓮尼婭殲滅戰,Recollection
 5165,,澤蓮尼婭殲殛戰,Recollection (Extreme)
 5166,,永護塔底,The Underkeep
 5167,,蜃景幻界新月島,Occult Crescent
-5168,,南征之章,Occult Crescent: South Horn
-5170,,關鍵遭遇戰,critical encounter
-5171,,歧路之塔：力量之塔,Forked Tower: Blood
+5168,,新月島南征之章,Occult Crescent: South Horn
+5170,,緊急遭遇戰,critical encounter
+5171,,兩歧塔力之塔,Forked Tower: Blood
 5172,,青龍幻巧戰,The Wreath of Snakes (Unreal)
-5175,,永恆之暗殲滅戰,The Ageless Necropolis
-5176,,永恆之暗殲殛戰,The Minstrel's Ballad: Necron's Embrace
+5175,,永遠之暗殲滅戰,The Ageless Necropolis
+5176,,永遠之暗悲惶殲滅戰,The Minstrel's Ballad: Necron's Embrace
 5177,,桑多利亞：第二巡行,San d'Oria: The Second Walk
 5178,,中央終端,The Meso Terminal
-5181,,海灣戰場,The Bayside Battleground
+5181,,海岸鬥場,The Bayside Battleground
