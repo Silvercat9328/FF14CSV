@@ -1269,6 +1269,19 @@ int32,str,str,str
 3646,,魔科學器：魔法效果解除,Protomander of Serenity
 3647,,魔科學器：感知寶藏,Protomander of Intuition
 3648,,魔科學器：重生,Protomander of Raising
+3649,,魔陶器：加速,Pomander of Haste
+3650,,魔陶器：淨化之守,Pomander of Purification
+3651,,魔陶器：巡禮之導,Pomander of Devotion
+3652,,杜松之香·宿命,poisonfruit incense
+3653,,杜松之香·明敏,mazeroot incense
+3654,,杜松之香·安寧,barkbalm incense
+3655,,再生的祭壇,Altar of Return
+3656,,光耀聖酒,sacramental spirits
+3657,,光耀香油,sacramental spices
+3658,,光耀穀物,sacramental grain
+3659,,光耀蠟燭,sacramental light
+3660,,光耀百合,sacramental lilies
+3661,,光耀燭台,votive candelabras
 4000,,魔素板,magia board
 4001,,魔素融合器,magia melder
 4002,,魔素石,magicite
@@ -1483,8 +1496,13 @@ int32,str,str,str
 5170,,緊急遭遇戰,critical encounter
 5171,,兩歧塔力之塔,Forked Tower: Blood
 5172,,青龍幻巧戰,The Wreath of Snakes (Unreal)
+5173,,護鎖刃龍狩獵戰,The Windward Wilds
+5174,,護鎖刃龍上位狩獵戰,The Windward Wilds (Extreme)
 5175,,永遠之暗殲滅戰,The Ageless Necropolis
 5176,,永遠之暗悲惶殲滅戰,The Minstrel's Ballad: Necron's Embrace
 5177,,桑多利亞：第二巡行,San d'Oria: The Second Walk
 5178,,中央終端,The Meso Terminal
+5179,,巡禮漫步,Pilgrim's Traverse
+5180,,至極悲痛詩想殲滅戰,The Final Verse (Quantum)
 5181,,海岸鬥場,The Bayside Battleground
+5182,,至極悲痛殲滅戰,The Final Verse
