@@ -38,9 +38,9 @@ int32,str,str
 33,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_9,關於「必中一閃快刀斬魔」
 34,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_6,返回
 35,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_1,機遇任務會在特定時間出現。
-36,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_1,每小時<hex:020703E80203><hex:022402DA03>分（地球時間）的時候，<hex:02100103>會出現「小雛鳥的營救者」「空軍裝甲駕駛員」<hex:02100103>「虛景跳跳樂大挑戰（尼姆浮游遺跡風格）」的其中之一。
-37,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_2,每小時<hex:020703E80203><hex:022402DA03>分（地球時間）的時候，<hex:02100103>會出現「必中一閃快刀斬魔」「噴風中的倖存者」<hex:02100103>「虛景跳跳樂大挑戰（貝拉哈迪亞遺跡風格）」的其中之一。
-38,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_3,每小時<hex:020703E80203><hex:022402DA03>分（地球時間）的時候，<hex:02100103>會出現「空軍裝甲駕駛員」「必中一閃快刀斬魔」<hex:02100103>「虛景跳跳樂大挑戰（妖精領風格）」的其中之一。
+36,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_1,每小時<hex:020703E80203><hex:022402DA03>分（地球時間）的時候，<hex:02100103>會出現「小雛鳥的營救者」「虛景跳跳樂大挑戰」<hex:02100103>「空軍裝甲駕駛員（謝爾達萊群島風格）」的其中之一。
+37,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_2,每小時<hex:020703E80203><hex:022402DA03>分（地球時間）的時候，<hex:02100103>會出現「必中一閃快刀斬魔」「噴風中的倖存者」<hex:02100103>「空軍裝甲駕駛員（金碟遊樂場風格）」的其中之一。
+38,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_3,每小時<hex:020703E80203><hex:022402DA03>分（地球時間）的時候，<hex:02100103>會出現「虛景跳跳樂大挑戰」「必中一閃快刀斬魔」<hex:02100103>「空軍裝甲駕駛員（謝爾達萊群島風格）」的其中之一。
 39,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_1_1,活動的場地是巨人柱和科瑞爾山。<hex:02100103>有一隻陸行鳥雛鳥不知怎麼跑到了最頂端，<hex:02100103>卻因為太高被嚇傻了，沒辦法自己下來……
 40,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_1_2,如果您在圓形廣場或奇妙廣場見到正在苦惱的人，<hex:02100103>就請出手相助吧。<hex:02100103>那些人或許正因為無法救助陸行鳥雛鳥而煩惱著……
 41,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_2_1,我們在艾歐澤亞有名的盜龍快運那裡訂了一批易碎的壺，<hex:02100103>但這一消息似乎被某個對盜龍快運積恨已久的盜賊團知道了……
@@ -55,7 +55,7 @@ int32,str,str
 50,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_7_2,該機遇任務出現時，您可以前往圓形廣場的西北角，<hex:02100103>找「仙人刺嚮導」申請參加挑戰。<hex:02100103>究竟是哪種賽道在等待著您，就只有到時候才知道了。
 51,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_8_1,瞄準好射擊！<hex:02100103>乘坐空軍裝甲破壞「仙人刺」的靶子，<hex:02100103>可以根據贏得的分數等級獲得相應的金碟幣。
 52,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_8_2,該機遇任務出現時，您可以前往圓形廣場的西北角，<hex:02100103>找「仙人刺嚮導」申請參加挑戰。
-53,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_9_1,這個機遇任務是要登上舞台躲避保鏢老師的攻擊。<hex:02100103>在台上能站得越久，得到的獎勵就越多。<hex:02100103>加上還有拾取金幣堆的運氣要素，一定能讓您玩得開心。
+53,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_9_1,這個機遇任務是要登上舞臺躲避保鏢老師的攻擊。<hex:02100103>在臺上能站得越久，得到的獎勵就越多。<hex:02100103>加上還有拾取金幣堆的運氣要素，一定能讓您玩得開心。
 54,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_9_2,機遇任務出現時，您可以前往演出廣場的北側，<hex:02100103>找「保鏢的小弟」申請參加挑戰。
 55,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOVM,萌寵之王……<hex:02100103>那是在寵物廣場不分晝夜上演的寵物之間的激烈戰鬥。
 56,TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_LOVM_001,決定勝負的關鍵就是，<hex:02100103>讓寵物極大限度地發揮出自身的能力……<hex:02100103>如果你想要證實一下自己的謀略，請務必挑戰試試！

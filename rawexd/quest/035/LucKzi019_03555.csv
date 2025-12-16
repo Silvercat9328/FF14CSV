@@ -59,8 +59,8 @@ int32,str,str
 54,TEXT_LUCKZI019_03555_RIOTT_000_011,對對，這東西這樣……<hex:02100103>砸碎碾成粉末……好了！
 55,TEXT_LUCKZI019_03555_RIOTT_000_012,你看，<hex:022811FF0A>EventItem<hex:F61E8FCF0103>做成了！<hex:02100103>這個村子做的地酒是要加入碾碎的<hex:022811FF0A>EventItem<hex:F61E8FCE0103>的！
 56,TEXT_LUCKZI019_03555_RIOTT_000_013,死去變成石像的吉古圖是不能喝酒的吧？<hex:02100103>但是這樣做成「石酒」，連石像也能喝了！
-57,TEXT_LUCKZI019_03555_RIOTT_000_014,那你就按規矩來吧。<hex:02100103>將這個<hex:022811FF0A>EventItem<hex:F61E8FCF0103>，像是在台座周圍巡邏那樣<hex:02100103>灑在四周吧！
-58,TEXT_LUCKZI019_03555_RIOTT_000_015,那你就按規矩來吧。<hex:02100103>你去圍繞著石像的台座走一圈<hex:02100103>將這個<hex:022811FF0A>EventItem<hex:F61E8FCF0103>，灑在石像的周圍吧！
+57,TEXT_LUCKZI019_03555_RIOTT_000_014,那你就按規矩來吧。<hex:02100103>將這個<hex:022811FF0A>EventItem<hex:F61E8FCF0103>，像是在臺座周圍巡邏那樣<hex:02100103>灑在四周吧！
+58,TEXT_LUCKZI019_03555_RIOTT_000_015,那你就按規矩來吧。<hex:02100103>你去圍繞著石像的臺座走一圈<hex:02100103>將這個<hex:022811FF0A>EventItem<hex:F61E8FCF0103>，灑在石像的周圍吧！
 59,TEXT_LUCKZI019_03555_SYSTEM_000_020,灑上<hex:022811FF0A>EventItem<hex:F61E8FCF0103>後抬頭看，<hex:02100103>吉古圖的石像彷彿在微笑……
 60,TEXT_LUCKZI019_03555_RIOTT_000_030,嗯，成功了！
 61,TEXT_LUCKZI019_03555_RIOTT_000_031,矮人都是大酒鬼。<hex:02100103>就算是變成了石像，不能喝最喜歡的酒也很難受吧？<hex:02100103>所以就約定俗成了這種表示敬意的方法。

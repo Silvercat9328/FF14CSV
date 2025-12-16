@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ927_01992_SEQ_00,第七傳送環的改善系統安靜地佇立著。
-1,TEXT_HEAVNZ927_01992_SEQ_01,改善系統命令冒險者前去消滅因洗腦試驗失敗而失控的龍族。在阿濟茲拉的愚神台南邊討伐3隻<hex:02280FFF09>BNpcName<hex:F20FE90103>。
+1,TEXT_HEAVNZ927_01992_SEQ_01,改善系統命令冒險者前去消滅因洗腦試驗失敗而失控的龍族。在阿濟茲拉的愚神臺南邊討伐3隻<hex:02280FFF09>BNpcName<hex:F20FE90103>。
 2,TEXT_HEAVNZ927_01992_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F20FE90103>。向第七傳送環的改善系統報告。
 3,TEXT_HEAVNZ927_01992_SEQ_03,向改善系統報告完畢。為了強化兵器的戰鬥力，故在洗腦時增加了其狂暴性，造成了失控的原因。
 4,TEXT_HEAVNZ927_01992_SEQ_04,空

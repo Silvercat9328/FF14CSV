@@ -4,8 +4,8 @@ offset,0,4
 int32,str,str
 0,TEXT_LUCKSA305_04088_SEQ_00,弗爾德尼斯前哨的白沙恩有事想要告訴冒險者。
 1,TEXT_LUCKSA305_04088_SEQ_01,白沙恩宣布作戰開始。和弗爾德尼斯前哨的莉莉婭談談。
-2,TEXT_LUCKSA305_04088_SEQ_02,決定和莉莉婭一起去敵方旗艦附近設定引導裝置。調查扎杜諾爾高原北部台地的<hex:02280CFF05>EObj<hex:F61EB1A20103>。
-3,TEXT_LUCKSA305_04088_SEQ_03,討伐了出現的帝國兵。再次調查扎杜諾爾高原北部台地的<hex:02280CFF05>EObj<hex:F61EB1DE0103>。
+2,TEXT_LUCKSA305_04088_SEQ_02,決定和莉莉婭一起去敵方旗艦附近設定引導裝置。調查扎杜諾爾高原北部臺地的<hex:02280CFF05>EObj<hex:F61EB1A20103>。
+3,TEXT_LUCKSA305_04088_SEQ_03,討伐了出現的帝國兵。再次調查扎杜諾爾高原北部臺地的<hex:02280CFF05>EObj<hex:F61EB1DE0103>。
 4,TEXT_LUCKSA305_04088_SEQ_04,順利完成作戰，水琴也被趕來支援的芙蘭成功救下。和弗爾德尼斯前哨的白沙恩談談。
 5,TEXT_LUCKSA305_04088_SEQ_05,即將攻入旗艦達爾里阿達號。與義軍一起擊敗梅內紐斯和敵方兵器！<hex:02100103><hex:02100103>※「旗艦達爾里阿達號攻略戰」可以通過扎杜諾爾高原發生的「緊急遭遇戰」申請參加。
 6,TEXT_LUCKSA305_04088_SEQ_06,失控的迪亞布羅魔兵被變為鬪神的米希亞消滅。和弗爾德尼斯前哨的馬爾夏克談談。
@@ -27,7 +27,7 @@ int32,str,str
 22,TEXT_LUCKSA305_04088_SEQ_22,
 23,TEXT_LUCKSA305_04088_SEQ_23,
 24,TEXT_LUCKSA305_04088_TODO_00,和莉莉婭對話
-25,TEXT_LUCKSA305_04088_TODO_01,調查北部台地的<hex:02280CFF05>EObj<hex:F61EB1A30103>
+25,TEXT_LUCKSA305_04088_TODO_01,調查北部臺地的<hex:02280CFF05>EObj<hex:F61EB1A30103>
 26,TEXT_LUCKSA305_04088_TODO_02,調查<hex:02280CFF05>EObj<hex:F61EB1DE0103>
 27,TEXT_LUCKSA305_04088_TODO_03,和白沙恩對話
 28,TEXT_LUCKSA305_04088_TODO_04,完成旗艦達爾里阿達號攻略戰

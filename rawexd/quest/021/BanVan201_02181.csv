@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_BANVAN201_02181_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>西風島的穆納瓦努有事想拜託冒險者。
 1,TEXT_BANVAN201_02181_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>據穆納瓦努說，拉努瓦利有事想要找冒險者幫忙。和西風島的農人拉努瓦利談談。
-2,TEXT_BANVAN201_02181_SEQ_02,拉努瓦利告訴冒險者說浮島土地的土壤不夠肥沃。為了改善土壤，在袞杜集落周邊獲取3袋<hex:022811FF0A>EventItem<hex:F61E8BF70103>，在危步台獲取3個<hex:022811FF0A>EventItem<hex:F61E8C060103>。
+2,TEXT_BANVAN201_02181_SEQ_02,拉努瓦利告訴冒險者說浮島土地的土壤不夠肥沃。為了改善土壤，在袞杜集落周邊獲取3袋<hex:022811FF0A>EventItem<hex:F61E8BF70103>，在危步臺獲取3個<hex:022811FF0A>EventItem<hex:F61E8C060103>。
 3,TEXT_BANVAN201_02181_SEQ_03,獲得了3袋<hex:022811FF0A>EventItem<hex:F61E8BF70103>和3個<hex:022811FF0A>EventItem<hex:F61E8C060103>。將其交給西風島的農人拉努瓦利。
 4,TEXT_BANVAN201_02181_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8BF70103>和<hex:022811FF0A>EventItem<hex:F61E8C060103>交給了拉努瓦利。袞杜集落周邊的土壤是袞杜族先祖代代耕耘過的。將<hex:022811FF0A>EventItem<hex:F61E8C060103>與取來的土壤一起混入浮島土地的話，能夠有效地讓浮島的土壤得到改善，使之更加適合耕耘。
 5,TEXT_BANVAN201_02181_SEQ_05,
@@ -55,8 +55,8 @@ int32,str,str
 50,TEXT_BANVAN201_02181_RANUVALI_000_010,你好，<hex:022903EB0203>！<hex:02100103>務必、務必將你的力量藉助於我！
 51,TEXT_BANVAN201_02181_RANUVALI_000_011,其實，我最近在這座浮島上耕種了一些特產蔬菜，<hex:02100103>可是，浮島的土壤如同落湯風箏貓一樣枯瘦貧瘠，<hex:02100103>這麼下去的話，想必種不出優質的蔬菜。
 52,TEXT_BANVAN201_02181_RANUVALI_000_012,所以、所以，我想讓<hex:022903EB0203>你幫我去<hex:02100103>袞杜集落周邊取點土回來。<hex:02100103>大概有3袋<hex:022811FF0A>EventItem<hex:F61E8BF70103>就夠了。
-53,TEXT_BANVAN201_02181_RANUVALI_000_013,然後、然後，還需要3個<hex:022811FF0A>EventItem<hex:F61E8C060103>。<hex:02100103><hex:022811FF0A>EventItem<hex:F61E8C060103>可以在危步台找到，<hex:02100103>我就像那求水心切的乾涸大地一樣急需這些東西，拜託你了！
-54,TEXT_BANVAN201_02181_RANUVALI_000_014,請將從袞杜集落周邊獲取的3袋<hex:022811FF0A>EventItem<hex:F61E8BF70103><hex:02100103>和危步台獲取的3個<hex:022811FF0A>EventItem<hex:F61E8C060103>帶來給我，拜託你了！
+53,TEXT_BANVAN201_02181_RANUVALI_000_013,然後、然後，還需要3個<hex:022811FF0A>EventItem<hex:F61E8C060103>。<hex:02100103><hex:022811FF0A>EventItem<hex:F61E8C060103>可以在危步臺找到，<hex:02100103>我就像那求水心切的乾涸大地一樣急需這些東西，拜託你了！
+54,TEXT_BANVAN201_02181_RANUVALI_000_014,請將從袞杜集落周邊獲取的3袋<hex:022811FF0A>EventItem<hex:F61E8BF70103><hex:02100103>和危步臺獲取的3個<hex:022811FF0A>EventItem<hex:F61E8C060103>帶來給我，拜託你了！
 55,TEXT_BANVAN201_02181_RANUVALI_000_020,歡迎回來，<hex:022903EB0203>！<hex:02100103>怎麼樣，我要的東西找到了嗎？
 56,TEXT_BANVAN201_02181_RANUVALI_000_021,真是、真是，太謝謝你了！<hex:02100103>我要的東西全都幫我找來了！
 57,TEXT_BANVAN201_02181_RANUVALI_000_022,土壤的肥沃度不是一朝一夕就能改變的。<hex:02100103>雖然、雖然，袞杜集落周邊的土壤有段時間沒保養過了，<hex:02100103>可畢竟是代代耕耘過的土壤，所以還是那麼肥沃。

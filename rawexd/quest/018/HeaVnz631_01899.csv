@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ631_01899_SEQ_00,玫瑰園的吉爾登正在生氣。
-1,TEXT_HEAVNZ631_01899_SEQ_01,吉爾登希望冒險者能稍微教訓一下那群<hex:02280FFF09>BNpcName<hex:F20DB30103>。在阿巴拉提亞雲海的危步台討伐3隻<hex:02280FFF09>BNpcName<hex:F20DB30103>。
+1,TEXT_HEAVNZ631_01899_SEQ_01,吉爾登希望冒險者能稍微教訓一下那群<hex:02280FFF09>BNpcName<hex:F20DB30103>。在阿巴拉提亞雲海的危步臺討伐3隻<hex:02280FFF09>BNpcName<hex:F20DB30103>。
 2,TEXT_HEAVNZ631_01899_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20DB30103>。向玫瑰園的吉爾登報告。
 3,TEXT_HEAVNZ631_01899_SEQ_03,向吉爾登報告完畢。<hex:02280FFF09>BNpcName<hex:F20DB30103>老搗亂是因為它們想將大樹搶佔為自己的巢穴。
 4,TEXT_HEAVNZ631_01899_SEQ_04,空

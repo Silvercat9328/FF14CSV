@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ636_01904_SEQ_00,玫瑰園的吉爾登感到非常困擾。
-1,TEXT_HEAVNZ636_01904_SEQ_01,吉爾登委託冒險者前去討伐<hex:02280FFF09>BNpcName<hex:F20DB10103>。在阿巴拉提亞雲海的危步台討伐4隻<hex:02280FFF09>BNpcName<hex:F20DB10103>。
+1,TEXT_HEAVNZ636_01904_SEQ_01,吉爾登委託冒險者前去討伐<hex:02280FFF09>BNpcName<hex:F20DB10103>。在阿巴拉提亞雲海的危步臺討伐4隻<hex:02280FFF09>BNpcName<hex:F20DB10103>。
 2,TEXT_HEAVNZ636_01904_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20DB10103>。向玫瑰園的吉爾登報告。
 3,TEXT_HEAVNZ636_01904_SEQ_03,向吉爾登報告完畢。吉爾登認為那些<hex:02280FFF09>BNpcName<hex:F20DB10103>只是在玩耍，但畢竟生命受到了威脅，所以不得不將其討伐掉。
 4,TEXT_HEAVNZ636_01904_SEQ_04,空

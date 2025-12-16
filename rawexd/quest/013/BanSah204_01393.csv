@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_BANSAH204_01393_SEQ_00,諾布養育場的荷烏想要冒險者去進行破壞活動。
-1,TEXT_BANSAH204_01393_SEQ_01,荷烏委託冒險者在攻城兵器<hex:02280FFF09>BNpcName<hex:F209E30103>被運到前線前將其破壞。在薩普沙產卵地破壞2台<hex:02280FFF09>BNpcName<hex:F209E30103>。
+1,TEXT_BANSAH204_01393_SEQ_01,荷烏委託冒險者在攻城兵器<hex:02280FFF09>BNpcName<hex:F209E30103>被運到前線前將其破壞。在薩普沙產卵地破壞2臺<hex:02280FFF09>BNpcName<hex:F209E30103>。
 2,TEXT_BANSAH204_01393_SEQ_02,成功破壞了<hex:02280FFF09>BNpcName<hex:F209E30103>。向諾布養育場的荷烏報告。
 3,TEXT_BANSAH204_01393_SEQ_03,向荷烏報告完畢。諾布也很擔心<hex:02280FFF09>BNpcName<hex:F209E30103>帶來的影響。珊瑚尖槍失去了重視的兵器後，士氣一定會低沉，荷烏對此感到很高興。今後也繼續注意薩普沙產卵地的動向。
 4,TEXT_BANSAH204_01393_SEQ_04,空欄

@@ -18,7 +18,7 @@ int32,str,str
 13,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_003,究竟為什麼會這樣呢……<hex:02100103>也許是我在不經意間想通過藐視其他民族<hex:02100103>來維持自己因逃離帝國而受傷的自尊心……
 14,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_050,可惡……為什麼我如此無力……<hex:02100103>抵達甌博訥修道院的話，一定能……<hex:02100103>對不起，將負擔都壓在了你的肩上……
 15,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_110,（★未使用／削除予定★）
-16,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_120,父親的新劇怎麼樣？<hex:02100103>雖然還在排練階段，台詞和情節都在不斷修改，<hex:02100103>但目前的劇本我就覺得已經相當有意思了……演起來很有感覺。
+16,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_120,父親的新劇怎麼樣？<hex:02100103>雖然還在排練階段，臺詞和情節都在不斷修改，<hex:02100103>但目前的劇本我就覺得已經相當有意思了……演起來很有感覺。
 17,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_121,……我很尊敬父親。<hex:02100103>不論是從前遵守著帝國明暗各種規則的父親，<hex:02100103>還是現如今被帝國趕出來的父親，我都不認為他有做錯……
 18,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_122,但我們在這異國他鄉又能做得了什麼……<hex:02100103>被帝國驅逐出境的我們能做得了什麼……<hex:02100103>至今為止的努力究竟是為了什麼……
 19,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_123,在帝國，我們至今的努力都沒能得到認同……<hex:02100103>那在這文化迥異的異國，就更不可能有人認同<hex:02100103>我們的才能和努力，認同我們的劇團了吧……
@@ -35,7 +35,7 @@ int32,str,str
 30,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_104,（★未使用／削除予定★）
 31,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_110,（★未使用／削除予定★）
 32,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_120,冒險者<hex:020813E905FF07>姐姐<hex:FF07>先生<hex:03>，感謝你至今的照顧。<hex:02100103>你不僅救了我，還救了我的父親和哥哥，<hex:02100103>真的非常感謝你。
-33,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_121,正如你先前看到的，父親以杜萊白書為基礎，<hex:02100103>完成了集這次旅行之大成的新劇，<hex:02100103>之後就差我們通過舞台將其呈現出來了……
+33,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_121,正如你先前看到的，父親以杜萊白書為基礎，<hex:02100103>完成了集這次旅行之大成的新劇，<hex:02100103>之後就差我們通過舞臺將其呈現出來了……
 34,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_122,現在回首想來，這次的冒險或許正是一次新作的取材之旅。<hex:02100103>無論其目的是為了幫杜萊家洗脫污名也好，<hex:02100103>為了讓母親復活也罷，終點全都一樣……
 35,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_123,這一切都是一場我們……或者應該說是冒險者<hex:020813E905FF07>姐姐<hex:FF07>先生<hex:03>你<hex:02100103>在聖石的指引下前往甌博訥修道院<hex:02100103>與那個惡魔決戰的命運也說不定……
 36,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_ALMA_000_124,這麼一想，也許我們被帝國驅逐，流浪到這塊土地，<hex:02100103>父親失蹤，最終與冒險者<hex:020813E905FF07>姐姐<hex:FF07>先生<hex:03>邂逅。<hex:02100103>這一切的一切也都是命運編織的宿命也說不定。
@@ -68,7 +68,7 @@ int32,str,str
 63,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_110,（★未使用／削除予定★）
 64,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_111,（★未使用／削除予定★）
 65,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MONTBLANC_000_120,莫古終於拿到角色了庫啵！<hex:02100103>角色名好像叫……伊茲路德？<hex:02100103>雖然不知道是誰不過聽說是個帥哥角色庫啵！！
-66,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_121,後台的工作放心交給莫古，<hex:02100103>哥哥去讓大家好好見識見識你的演技吧庫啵！<hex:02100103>帶上流浪莫古利族的榮譽，加油庫啵！！
+66,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_121,後臺的工作放心交給莫古，<hex:02100103>哥哥去讓大家好好見識見識你的演技吧庫啵！<hex:02100103>帶上流浪莫古利族的榮譽，加油庫啵！！
 67,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_000,哥哥和拉姆薩變得要好是好事庫啵！<hex:02100103>不過莫古覺得拉姆薩突然性情大變是由於<hex:02100103>項鏈聖石中的乙太庫啵……
 68,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_001,莫古當時看到了聖石中的乙太灌入拉姆薩的身體庫啵！<hex:02100103>不過現在應該已經沒再受到影響了庫啵……<hex:02100103>莫古已經搞不清楚是怎麼回事了庫啵……
 69,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_HURDY_000_050,哥哥有給你添麻煩嗎庫啵？<hex:02100103>希望沒有庫啵……<hex:02100103>哥哥一得意忘形就會去做危險的事情，很是令人擔心庫啵！
@@ -116,7 +116,7 @@ int32,str,str
 111,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_080,（★未使用／削除予定★）
 112,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_100,（★未使用／削除予定★）
 113,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_110,托你的福，我們證實了伊瓦利斯是真實存在過的，<hex:02100103>而且最重要的是，我們終於有辦法洗脫杜萊家的污名了！<hex:02100103>真的非常感謝你！
-114,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_111,如你之前所見，我完成了一直在構思的黃道勇士傳奇續作，<hex:02100103>正努力將其搬到舞台上來。你看到我們的排練後感想如何？<hex:02100103>雖然現在還只是個大致框架。
+114,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_111,如你之前所見，我完成了一直在構思的黃道勇士傳奇續作，<hex:02100103>正努力將其搬到舞臺上來。你看到我們的排練後感想如何？<hex:02100103>雖然現在還只是個大致框架。
 115,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_112,嗯？你說勇者拉姆薩的冒險與真相不符？<hex:02100103>確實，我寫的劇情與你在死都繆隆德獲知的真相不同。但為了<hex:02100103>讓它成為一個家喻戶曉的故事，我認為這樣改編一下會比較好。
 116,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_113,勇者拉姆薩的冒險故事應該由他自己來親自劃上句號。<hex:02100103>雖然完全按照史實將故事寫成將願望寄託後世也不錯，但我還是<hex:02100103>傾向於呈現給觀眾一個英雄默默擊敗阿爾蒂瑪後悄然離開的故事。
 117,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_000_114,因此我才改寫了劇情，<hex:02100103>希望讓勇者拉姆薩的故事能永遠流傳下去……
@@ -158,11 +158,11 @@ int32,str,str
 153,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_000,在獅子戰爭的幕後，<hex:02100103>勇者拉姆薩一行圍繞聖石展開了無休止的戰鬥……
 154,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_001,根據奧蘭記載，教會派遣了神殿騎士團不斷追殺拉姆薩一行。<hex:02100103>拉姆薩的隊伍今天擊退神殿騎士團的追擊，<hex:02100103>明天又要迎戰異魔，死鬥接連不斷。
 155,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_002,不過有意思的一點是迪利塔也在背後協助了他們的行動。<hex:02100103>當時的迪利塔隸屬於教會的一支以諜報為主要目的的部隊，<hex:02100103>他在那裡得知了教會的陰謀與好友所面臨的困境。
-156,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_003,領導力極高的他正以領兵之將的身份活躍在歷史舞台上，<hex:02100103>並為了謀得王位而虎視眈眈做著準備。<hex:02100103>在這樣的身份下，他沒法公然與教會為敵。
+156,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_003,領導力極高的他正以領兵之將的身份活躍在歷史舞臺上，<hex:02100103>並為了謀得王位而虎視眈眈做著準備。<hex:02100103>在這樣的身份下，他沒法公然與教會為敵。
 157,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_004,正是在這樣的背景下，他得知了拉姆薩成為異端者遭到通緝的事，<hex:02100103>並且知道了這是圍繞聖石展開的戰鬥。<hex:02100103>為了阻止教會的陰謀，他暗中開始對拉姆薩展開了支援。
 158,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_005,聽到這些後，也許你會覺得迪利塔完全是在<hex:02100103>為了實現自己的野心而利用拉姆薩……<hex:02100103>不用說是你，其實就連奧蘭，也都是這麼想的。
 159,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_006,不過，拉姆薩和迪利塔都明白，只要「聖石帶來的災厄」不除，<hex:02100103>伊瓦利斯就永遠無法迎來真正的和平。<hex:02100103>所以他們才想通過各司其職來實現「和平」這一崇高的理想。
-160,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_007,就這樣，兩人走上了各自的道路。<hex:02100103>迪利塔在台前引領獅子戰爭終結，<hex:02100103>拉姆薩則在幕後剷除用聖石為惡之人……
+160,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_300_007,就這樣，兩人走上了各自的道路。<hex:02100103>迪利塔在臺前引領獅子戰爭終結，<hex:02100103>拉姆薩則在幕後剷除用聖石為惡之人……
 161,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_000,根據杜萊白書所寫，澤萊奇勒河中斷有一個瀑布，<hex:02100103>而甌博訥修道院就是在那座瀑布的山崖岩體上開鑿修建的。<hex:02100103>這一建築本身十分古老，不知是誰在何時為什麼而建。
 162,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_001,獅子戰爭時期的王室阿特卡夏家和這座修道院關係頗深……<hex:02100103>修道院最初其實是一座要塞，被用來幽禁王室的「罪人」，<hex:02100103>後來才被改建成了修道院。
 163,TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_400_002,獅子戰爭結束時迪利塔迎娶的最後一位王位正統繼承人<hex:02100103>奧薇莉亞·阿特卡夏公主就從小一直被幽禁在那裡。
