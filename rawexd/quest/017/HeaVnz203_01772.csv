@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ203_01772_SEQ_00,尾羽集落周邊營地的萊奧尼爾夫正在警戒四周。
 1,TEXT_HEAVNZ203_01772_SEQ_01,萊奧尼爾夫拜託冒險者討伐<hex:02280FFF09>BNpcName<hex:F20DEB0103>。前往龍堡參天高地的陸行鳥之森，討伐4隻<hex:02280FFF09>BNpcName<hex:F20DEB0103>。
 2,TEXT_HEAVNZ203_01772_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F20DEB0103>。向尾羽集落周邊營地的萊奧尼爾夫報告。

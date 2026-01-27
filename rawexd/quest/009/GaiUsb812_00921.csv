@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB812_00921_SEQ_00,烏爾達哈的原傭兵西博爾德好像有什麼心事。
 1,TEXT_GAIUSB812_00921_SEQ_01,西博爾德想要給死去的同伴獻花。到中薩納蘭的樵鳴洞去獻上<hex:022811FF0A>EventItem<hex:F61E874B0103>。
 2,TEXT_GAIUSB812_00921_SEQ_02,在樵鳴洞獻上了<hex:022811FF0A>EventItem<hex:F61E874B0103>。和樵鳴洞入口處的諾曼二等耀兵談談。

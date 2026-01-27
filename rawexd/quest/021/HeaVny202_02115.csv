@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNY202_02115_SEQ_00,石之家的蛇心就蠻神問題，有事想要委託給冒險者。
 1,TEXT_HEAVNY202_02115_SEQ_01,蛇心委託冒險者前去討伐再次被召喚出來的雲神俾斯麥，並將<hex:022811FF0A>EventItem<hex:F61E8B920103>交給了冒險者。為了借取討伐時需要用到的浮島，前往阿巴拉提亞雲海的尊杜集落，讓索努瓦努查看<hex:022811FF0A>EventItem<hex:F61E8B920103>。
 2,TEXT_HEAVNY202_02115_SEQ_02,讓索努瓦努查看了<hex:022811FF0A>EventItem<hex:F61E8B920103>，成功借到了浮島。和來到藍天窗的西德談談。

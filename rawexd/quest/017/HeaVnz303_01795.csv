@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ303_01795_SEQ_00,自由腦窟穴的跑得快正拿著手槍發愁。
 1,TEXT_HEAVNZ303_01795_SEQ_01,跑得快委託冒險者去籌集火藥。在龍堡參天高地的兵站窟獲取3袋<hex:022811FF0A>EventItem<hex:F61E8AD60103>。
 2,TEXT_HEAVNZ303_01795_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AD60103>。將<hex:022811FF0A>EventItem<hex:F61E8AD60103>交給自由腦窟穴的跑得快。

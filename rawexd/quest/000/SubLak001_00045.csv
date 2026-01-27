@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_SUBLAK001_00045_SEQ_00,喪靈鐘的蕾修·珀拉里正在找人。
 1,TEXT_SUBLAK001_00045_SEQ_01,曾為水晶義勇隊隊員的蕾修·珀拉里想要委託冒險者，將<hex:022811FF0A>EventItem<hex:F61E8A460103>交給曾為她治療的多瑪少女。為了尋找少女的去向，和喪靈鐘羅薇娜會館的羅薇娜談談。
 2,TEXT_SUBLAK001_00045_SEQ_02,和羅薇娜進行了交談。在喪靈鐘的指定地點等待孩子們的到來。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_000,……
 1,TEXT_REGISB5TERTIUM_00753_SYSTEM_100_000,雙唇緊閉。<hex:02100103>看起來什麼都不打算說。
 2,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_001,你就是那些蠻族們的英雄，<hex:022903EB0203>嗎……<hex:02100103>哼，雖然我不太樂意，不過軍團長已經對我們下過令了。<hex:02100103>我會回答你的問題的，想問什麼就問吧。

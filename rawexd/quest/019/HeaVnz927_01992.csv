@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ927_01992_SEQ_00,第七傳送環的改善系統安靜地佇立著。
 1,TEXT_HEAVNZ927_01992_SEQ_01,改善系統命令冒險者前去消滅因洗腦試驗失敗而失控的龍族。在阿濟茲拉的愚神臺南邊討伐3隻<hex:02280FFF09>BNpcName<hex:F20FE90103>。
 2,TEXT_HEAVNZ927_01992_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F20FE90103>。向第七傳送環的改善系統報告。

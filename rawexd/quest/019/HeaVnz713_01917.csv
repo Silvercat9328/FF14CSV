@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ713_01917_SEQ_00,尊杜集落的亞努瓦努看起來很生氣。
 1,TEXT_HEAVNZ713_01917_SEQ_01,聽亞努瓦努希望冒險者去破壞<hex:02280FFF09>BNpcName<hex:F20DB90103>。前往阿巴拉提亞雲海的曲石祭壇，討伐4隻<hex:02280FFF09>BNpcName<hex:F20DB90103>。
 2,TEXT_HEAVNZ713_01917_SEQ_02,討伐了4隻<hex:02280FFF09>BNpcName<hex:F20DB90103>。向尊杜集落的亞努瓦努報告。

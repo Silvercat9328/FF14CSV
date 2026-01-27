@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA607_00769_SEQ_00,果樹園的農夫佛克斯，有件簡單的工作想委託給冒險者。
 1,TEXT_GAIUSA607_00769_SEQ_01,從佛克斯那裡獲得了<hex:022811FF0A>EventItem<hex:F61E86E00103>。將<hex:022811FF0A>EventItem<hex:F61E86E00103>供奉給石場水車西南面的「森林守護者」。
 2,TEXT_GAIUSA607_00769_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E86E00103>獻給了「森林守護者」。返回石場水車，將<hex:022811FF0A>EventItem<hex:F61E86E00103>交給卡斯特蘭。

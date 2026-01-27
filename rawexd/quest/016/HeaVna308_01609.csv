@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNA308_01609_SEQ_00,臥龍島的伊塞勒想要向龍堡參天高地出發。
 1,TEXT_HEAVNA308_01609_SEQ_01,和伊塞勒進行了交談。前往龍堡參天高地。
 2,TEXT_HEAVNA308_01609_SEQ_02,到達了龍堡參天高地。和龍堡參天高地陸行鳥之森的伊塞勒談談。

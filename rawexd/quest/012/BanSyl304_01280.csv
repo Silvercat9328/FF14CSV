@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSYL304_01280_SEQ_00,妖精暫留地的莫奇希亞有事情想要冒險者去做。
 1,TEXT_BANSYL304_01280_SEQ_01,接受了莫奇希亞的委託。對妖精領西部的可疑格里達尼亞人使用<hex:022811FF0A>EventItem<hex:F61E89030103>，討伐隨之出現的3名<hex:02280FFF09>BNpcName<hex:F209110103>。
 2,TEXT_BANSYL304_01280_SEQ_02,討伐了偽裝成可疑格里達尼亞人的<hex:02280FFF09>BNpcName<hex:F209110103>。向妖精暫留地的莫奇希亞報告。

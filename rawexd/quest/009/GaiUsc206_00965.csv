@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC206_00965_SEQ_00,船舶墓場的阿爾德烏維爾，想要得到某樣東西。
 1,TEXT_GAIUSC206_00965_SEQ_01,接受了將<hex:022811FF0A>EventItem<hex:F61E876A0103>中裝滿酒的委託。從<hex:02280CFF05>EObj<hex:F61E8D0B0103>中取得葡萄酒。
 2,TEXT_GAIUSC206_00965_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E876B0103>。將其交給船舶墓場的阿爾德烏維爾。

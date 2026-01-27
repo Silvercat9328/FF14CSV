@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANKOB103_01327_SEQ_00,第789洞穴團採礦地的第789團清潔工博茲，很害怕他的同伴。
 1,TEXT_BANKOB103_01327_SEQ_01,第789團清潔工博茲惹第789團輔祭巴戈生氣了。為了平息他的怒氣，需要得到製作爆彈怪的材料。打倒黑金湖的<hex:02280FFF09>BNpcName<hex:F2010E0103>，獲取3個<hex:022811FF0A>EventItem<hex:F61E89720103>。
 2,TEXT_BANKOB103_01327_SEQ_02,打倒了<hex:02280FFF09>BNpcName<hex:F2010E0103>，獲得了<hex:022811FF0A>EventItem<hex:F61E89720103>。將<hex:022811FF0A>EventItem<hex:F61E89720103>交給第789洞穴團採礦地的第789團輔祭巴戈。

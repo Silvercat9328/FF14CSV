@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ314_01806_SEQ_00,自由腦窟穴的有心理陰影的骨頜族正在仰望天空。
 1,TEXT_HEAVNZ314_01806_SEQ_01,有心理陰影的骨頜族委託冒險者去尋找聲音的主人。在龍堡參天高地的阿瓦隆尼亞古陸尋找。
 2,TEXT_HEAVNZ314_01806_SEQ_02,找到了彷徨的骨頜族。他委託冒險者去討伐<hex:02280FFF09>BNpcName<hex:F20DF80103>。討伐阿瓦隆尼亞古陸的<hex:02280FFF09>BNpcName<hex:F20DF80103>。

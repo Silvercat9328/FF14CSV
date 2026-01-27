@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC610_01010_SEQ_00,石場水車的獵人伊薩穆瓦想要籌備某種魔物的肉。
 1,TEXT_GAIUSC610_01010_SEQ_01,接受了籌備<hex:022811FF0A>EventItem<hex:F61E87CD0103>的委託。討伐<hex:02280DFF09>BNpcName<hex:100103>，獲取5份<hex:022811FF0A>EventItem<hex:F61E87CD0103>。
 2,TEXT_GAIUSC610_01010_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E87CD0103>。將其交給石場水車的伊薩穆瓦。

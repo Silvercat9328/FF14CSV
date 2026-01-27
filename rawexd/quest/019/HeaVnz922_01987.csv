@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ922_01987_SEQ_00,伽馬管區的輸送系統安靜地佇立著。
 1,TEXT_HEAVNZ922_01987_SEQ_01,輸送系統想要讓未註冊的浮空型運送終端停止動作。在伽馬管區討伐4個<hex:02280FFF09>BNpcName<hex:F20DE00103>。
 2,TEXT_HEAVNZ922_01987_SEQ_02,成功破壞了<hex:02280FFF09>BNpcName<hex:F20DE00103>。向伽馬管區的輸送系統報告。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSYL209_01275_SEQ_00,妖精暫留地的頗妮希亞有事情想要委託給冒險者。
 1,TEXT_BANSYL209_01275_SEQ_01,頗妮希亞委託冒險者去惡作劇。拿起妖精領入口的<hex:02280CFF05>EObj<hex:F61E916B0103>。
 2,TEXT_BANSYL209_01275_SEQ_02,將<hex:02280CFF05>EObj<hex:F61E916B0103>放置到妖精領的<hex:02280CFF05>EObj<hex:F61E916E0103>。<hex:02100103><hex:02100103>※搬運狀態只能維持一段時間。接觸<hex:02280CFF05>EObj<hex:F61E916C0103>可以延長搬運狀態的持續時間。

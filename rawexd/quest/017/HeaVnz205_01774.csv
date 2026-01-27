@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ205_01774_SEQ_00,尾羽集落周邊營地的艾梅貝爾正在尋找戰鬥力足夠的人。
 1,TEXT_HEAVNZ205_01774_SEQ_01,艾梅貝爾拜託冒險者討伐<hex:02280FFF09>BNpcName<hex:F20DED0103>。前往龍堡參天高地的陸行鳥之森，討伐3隻<hex:02280FFF09>BNpcName<hex:F20DED0103>。
 2,TEXT_HEAVNZ205_01774_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20DED0103>。向尾羽集落周邊營地的艾梅貝爾報告。

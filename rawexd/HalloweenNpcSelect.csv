@@ -1,7 +1,7 @@
 ﻿key,6
-#,
+#,Description
 offset,0
-int32,str
+Int32,String
 0,
 1,溫文爾雅，內心強大的女性角尊
 2,信念堅定，充滿自信的魯加族女性

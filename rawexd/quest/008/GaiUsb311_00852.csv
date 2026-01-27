@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB311_00852_SEQ_00,太陽海岸的格格魯玖，十分在意蜂鳥的情況。
 1,TEXT_GAIUSB311_00852_SEQ_01,似乎有偷獵者在向蜂鳥投食。和太陽海岸北面的粗魯的偷獵者交談。
 2,TEXT_GAIUSB311_00852_SEQ_02,偷獵者主張其是在鮮血濱進行活動，與太陽海岸毫無關係。在指定地點使用<hex:022811FF0A>EventItem<hex:F61E87150103>，將蜂鳥引向太陽海岸。

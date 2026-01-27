@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,Objective,Requirement
 offset,0,4
-int32,str,str
+Int32,String,String
 0,,
 1,千魚祝福,達成條件：獲得的漁分超過2500。
 2,萬魚賀喜,達成條件：獲得的漁分超過5000。

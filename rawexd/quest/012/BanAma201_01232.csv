@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANAMA201_01232_SEQ_00,灰陣營的納爾基·冬有事想要告訴冒險者。
 1,TEXT_BANAMA201_01232_SEQ_01,接受了納爾基·冬的委託。討伐贊拉克側翼陣的<hex:02280FFF09>BNpcName<hex:F207570103>，獲取2個<hex:022811FF0A>EventItem<hex:F61E88DB0103>；再討伐<hex:02280FFF09>BNpcName<hex:F207580103>，獲取2個<hex:022811FF0A>EventItem<hex:F61E88DC0103>。
 2,TEXT_BANAMA201_01232_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E88DC0103>和<hex:022811FF0A>EventItem<hex:F61E88DB0103>。將<hex:022811FF0A>EventItem<hex:F61E88DC0103>和<hex:022811FF0A>EventItem<hex:F61E88DB0103>交給灰陣營的納爾基·冬。

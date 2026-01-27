@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC014_00951_SEQ_00,白雲崖前哨的布里亞納，正在尋找可以幫忙救援同伴的人。
 1,TEXT_GAIUSC014_00951_SEQ_01,接受了救援落下懸崖的騎兵的委託。首先在城中拿到救援所必需的<hex:022811FF0A>EventItem<hex:F61E87630103>。
 2,TEXT_GAIUSC014_00951_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E87630103>。與懸崖上前來救援的騎兵交談。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH109_01387_SEQ_00,諾布養育場的菲烏有事情想要委託給冒險者。
 1,TEXT_BANSAH109_01387_SEQ_01,接受了菲烏的委託，去取回被珊瑚尖槍奪走的商船貨物。登上商船，擊退敵人，回收3份<hex:02280CFF05>EObj<hex:F61E94220103>。諾布養育場的海獸馴養人帕阿會為冒險者準備前往海上的商船的水龍蜥。
 2,TEXT_BANSAH109_01387_SEQ_02,取回了<hex:022811FF0A>EventItem<hex:F61E898B0103>。將<hex:022811FF0A>EventItem<hex:F61E898B0103>交給諾布養育場的菲烏。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ103_01752_SEQ_00,隼巢的溫文爾雅的老婦人由於出不去集落，正在左右為難。
 1,TEXT_HEAVNZ103_01752_SEQ_01,溫文爾雅的老婦人希望冒險者代替自己祭拜她的丈夫。前往庫爾札斯西部高地，向戈爾加涅牧場附近的<hex:02280CFF05>EObj<hex:F61E9A520103>獻上<hex:022811FF0A>EventItem<hex:F61E8AC00103>。
 2,TEXT_HEAVNZ103_01752_SEQ_02,向<hex:02280CFF05>EObj<hex:F61E9A520103>獻上了<hex:022811FF0A>EventItem<hex:F61E8AC00103>。向隼巢的溫文爾雅的老婦人報告。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ919_01984_SEQ_00,第四傳送環附近的維生系統安靜地佇立著。
 1,TEXT_HEAVNZ919_01984_SEQ_01,據維生系統反映，<hex:02280FFF09>BNpcName<hex:F20DD60103>在污染大氣。在阿濟茲拉的貝塔管區討伐4個<hex:02280FFF09>BNpcName<hex:F20DD60103>。
 2,TEXT_HEAVNZ919_01984_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F20DD60103>。向第四傳送環附近的維生系統報告。

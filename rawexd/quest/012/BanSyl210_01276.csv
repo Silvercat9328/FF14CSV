@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSYL210_01276_SEQ_00,妖精暫留地的頗妮希亞想要冒險者幫忙驅逐某些東西。
 1,TEXT_BANSYL210_01276_SEQ_01,接受了委託，去驅逐壞妖精種植的<hex:02280FFF09>BNpcName<hex:F2090B0103>。驅逐2隻生長在妖精領北部的<hex:02280FFF09>BNpcName<hex:F2090B0103>。
 2,TEXT_BANSYL210_01276_SEQ_02,成功驅逐了<hex:02280FFF09>BNpcName<hex:F2090B0103>。向妖精暫留地的頗妮希亞報告。

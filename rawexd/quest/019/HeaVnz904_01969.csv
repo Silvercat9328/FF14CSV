@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ904_01969_SEQ_00,瑪托雅的洞穴的三根弦掃把正在唰唰唰唰地打掃衛生。
 1,TEXT_HEAVNZ904_01969_SEQ_01,冒險者需要實現三根弦掃把的願望來作為獲取知識的交換條件。在龍堡內陸低地西側的岩壁方向尋找小小的木橋。
 2,TEXT_HEAVNZ904_01969_SEQ_02,發現了小小的木橋。探索<hex:02280CFF05>EObj<hex:F61E9C3D0103>。

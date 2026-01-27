@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_SUBCTS817_00162_SEQ_00,魔女咖啡館的娜奧·加姆多拉正在為某事煩惱。
 1,TEXT_SUBCTS817_00162_SEQ_01,娜奧·加姆多拉委託冒險者將失物送還給失主。據說失主曾與咖啡館的常客交談過。和魔女咖啡館的艾拉爾談談。
 2,TEXT_SUBCTS817_00162_SEQ_02,從艾拉爾處打聽到了失主的資訊。將<hex:022811FF0A>EventItem<hex:F61E89C20103>交給碧企鵝瀑布的米莉絲·艾恩哈特。

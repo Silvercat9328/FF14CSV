@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_JOBMCH520_01706_SEQ_00,天鋼機工房的斯特凡尼維安有事想拜託冒險者。
 1,TEXT_JOBMCH520_01706_SEQ_01,天鋼機工房的機工士們不得不在缺少喬伊的情況下參加與澤梅爾家的共同作戰。為了進行準備工作，前往摩杜納的帝國中央堡，調查<hex:02280CFF05>EObj<hex:F61E9CFD0103>，取得3個<hex:022811FF0A>EventItem<hex:F61E8B980103>。
 2,TEXT_JOBMCH520_01706_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8B980103>。將<hex:022811FF0A>EventItem<hex:F61E8B980103>交給天鋼機工房的斯特凡尼維安。

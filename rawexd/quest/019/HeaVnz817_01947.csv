@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ817_01947_SEQ_00,遊擊野營地的塔普克里克斯屁股上受了傷。
 1,TEXT_HEAVNZ817_01947_SEQ_01,和塔普克里克斯進行了交談。在龍堡內陸低地的薩雷安精製區討伐3隻讓塔普克里克斯屁股受傷的<hex:02280FFF09>BNpcName<hex:F20E0B0103>。
 2,TEXT_HEAVNZ817_01947_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20E0B0103>。向遊擊野營地的塔普克里克斯報告。

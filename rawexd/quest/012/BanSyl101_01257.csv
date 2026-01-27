@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSYL101_01257_SEQ_00,妖精暫留地的特那克希亞有事情想要委託給冒險者。
 1,TEXT_BANSYL101_01257_SEQ_01,接受了特那克希亞的委託。將<hex:022811FF0A>EventItem<hex:F61E88DD0103>放置到霍桑山寨的<hex:02280CFF05>EObj<hex:F61E90D30103>。
 2,TEXT_BANSYL101_01257_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E88DD0103>放置到了霍桑山寨的<hex:02280CFF05>EObj<hex:F61E90D30103>。和霍桑山寨的羅爾佛·霍桑談談。

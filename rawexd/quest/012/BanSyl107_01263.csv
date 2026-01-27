@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSYL107_01263_SEQ_00,妖精暫留地的特那克希亞想要冒險者代替自己去做某件事情。
 1,TEXT_BANSYL107_01263_SEQ_01,接受了特那克希亞的委託。將從特那克希亞那裡拿到的<hex:022811FF0A>EventItem<hex:F61E891B0103>扔向百靈啼的4名帝國軍團兵。不過扔出<hex:022811FF0A>EventItem<hex:F61E891B0103>後很可能會遭到反擊。屆時就討伐隨之出現的<hex:02280FFF09>BNpcName<hex:F209060103>。
 2,TEXT_BANSYL107_01263_SEQ_02,扔出<hex:022811FF0A>EventItem<hex:F61E891B0103>，趕走了帝國兵。向妖精暫留地的特那克希亞報告。

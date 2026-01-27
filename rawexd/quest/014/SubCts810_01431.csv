@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_SUBCTS810_01431_SEQ_00,沉溺海豚亭的伊·托爾婉有事情想要告訴冒險者。
 1,TEXT_SUBCTS810_01431_SEQ_01,接受了伊·托爾婉的委託，尋找<hex:022811FF0A>EventItem<hex:F61E89910103>的主人。和沉溺海豚亭的坎特南談談。
 2,TEXT_SUBCTS810_01431_SEQ_02,和坎特南進行了交談。看來筆記是一個名叫瓦斯特雷德的魯加族冒險者的東西。將<hex:022811FF0A>EventItem<hex:F61E89910103>交給利姆薩·羅敏薩碼頭的瓦斯特雷德。

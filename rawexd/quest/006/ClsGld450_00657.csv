@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_CLSGLD450_00657_SEQ_00,雕金匠公會的賽倫蒂碧提，想為冒險者介紹工作。
 1,TEXT_CLSGLD450_00657_SEQ_01,接受了賽倫蒂碧提的委託。讓烏爾達哈雕金匠公會的賽倫蒂碧提查看<hex:022813FF07>ItemHQ<hex:FF08>　2876<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　2872<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　2878<hex:0103>。
 2,TEXT_CLSGLD450_00657_SEQ_02,讓賽倫蒂碧提查看了<hex:022813FF07>ItemHQ<hex:FF08>　2876<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　2872<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　2878<hex:0103>。和烏爾達哈雕金匠公會的羅伯特談談。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_CLSBSM580_02010_SEQ_00,寶杖大街的弗勒蒙丹想要委託冒險者為洛莉斯製作某物。
 1,TEXT_CLSBSM580_02010_SEQ_01,和弗勒蒙丹進行了交談。他想要修復傑爾凡家的寶劍，讓洛莉斯在比賽時使用。將<hex:022811FF0A>EventItem<hex:F61E8B2D0103>拿給利姆薩·羅敏薩鍛鐵匠公會的布瑞賽爾查看。
 2,TEXT_CLSBSM580_02010_SEQ_02,讓布瑞賽爾查看了<hex:022811FF0A>EventItem<hex:F61E8B2D0103>。就算是經驗豐富的布瑞賽爾也不知道如何修復這柄寶劍。前往北部林區的林場水車，將<hex:022811FF0A>EventItem<hex:F61E8B2D0103>拿去給傳說中的武器工匠蓋羅爾特查看，向他尋求幫助。

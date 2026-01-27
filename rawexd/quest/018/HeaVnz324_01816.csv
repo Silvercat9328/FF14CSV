@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ324_01816_SEQ_00,不潔三塔附近的卡爾·米克十分慌張。
 1,TEXT_HEAVNZ324_01816_SEQ_01,和卡爾·米克進行了交談。卡爾·米克的同族受傷了，它希望冒險者能夠協助它去狩獵。和龍堡參天高地寬慰河的卡爾·米克匯合。
 2,TEXT_HEAVNZ324_01816_SEQ_02,和卡爾·米克匯合了。在寬慰河的<hex:02280CFF05>EObj<hex:F61E9C0E0103>進行張望，討伐出現的<hex:02280FFF09>BNpcName<hex:F20FD30103>，獲取肉。

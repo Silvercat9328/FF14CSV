@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNA403_01639_SEQ_00,忘憂騎士亭的阿爾菲諾有些擔憂。
 1,TEXT_HEAVNA403_01639_SEQ_01,決定尋找在雲霧街收集情報的塔塔露。在伊修加德雲霧街的<hex:02280CFF05>EObj<hex:F61E9A2E0103>進行張望。
 2,TEXT_HEAVNA403_01639_SEQ_02,環顧了四周，並未發現塔塔露的身影。繼續到其他的地方尋找。在雲霧街的第2處<hex:02280CFF05>EObj<hex:F61E9A2F0103>進行張望。

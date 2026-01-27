@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ924_01989_SEQ_00,第六傳送環的製造系統安靜地佇立著。
 1,TEXT_HEAVNZ924_01989_SEQ_01,為了供給資源，製造系統委託冒險者破壞老化的兵器。在阿濟茲拉的古代大教堂討伐3個<hex:02280FFF09>BNpcName<hex:F20DE10103>。
 2,TEXT_HEAVNZ924_01989_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F20DE10103>。向第六傳送環的製造系統報告。

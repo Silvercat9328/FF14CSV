@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_JOBMCH500_01703_SEQ_00,天鋼機工房的斯特凡尼維安想要召開針對模擬戰的作戰會議。
 1,TEXT_JOBMCH500_01703_SEQ_01,斯特凡尼維安想要開會。和天鋼機工房附近的喬伊談談。
 2,TEXT_JOBMCH500_01703_SEQ_02,和喬伊進行了交談。和聖蕾內特廣場的羅斯特恩斯塔爾談談。

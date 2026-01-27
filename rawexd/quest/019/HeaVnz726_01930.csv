@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ726_01930_SEQ_00,自由腦窟穴的跑得快正滿懷期待地注視著冒險者。
 1,TEXT_HEAVNZ726_01930_SEQ_01,跑得快已經知道唯一腦窟穴的骨頜族將要攻擊此地。在龍堡參天高地的唯一腦窟穴討伐<hex:02280FFF09>BNpcName<hex:F20E060103>、<hex:02280FFF09>BNpcName<hex:F20E070103>或<hex:02280FFF09>BNpcName<hex:F20E080103>共4隻。
 2,TEXT_HEAVNZ726_01930_SEQ_02,討伐了骨頜兵。向自由腦窟穴的跑得快報告。

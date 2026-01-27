@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ002_01727_SEQ_00,伊修加德飛艇坪的克莉奧正一臉困惑地對著文件念念有詞。
 1,TEXT_HEAVNZ002_01727_SEQ_01,克莉奧希望冒險者幫忙運送一下飛空艇試飛計劃書。將<hex:022811FF0A>EventItem<hex:F61E8B9C0103>交給聖岡里奧爾占星院的雅內基納爾。
 2,TEXT_HEAVNZ002_01727_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E8B9C0103>交給了雅內基納爾。由於龍族的活動週期和修理日程衝突，所以要和天鋼機工房的弗羅梅洛談談，拜託他加緊修理。

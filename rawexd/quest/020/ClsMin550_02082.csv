@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_CLSMIN550_02082_SEQ_00,忘憂騎士亭的哈伊姆里克有事想找冒險者幫忙。
 1,TEXT_CLSMIN550_02082_SEQ_01,哈伊姆里克委託冒險者去調查一下關於採掘<hex:02280BFF05>Item<hex:F230F90103>的礦脈。前往烏爾達哈，將<hex:022811FF0A>EventItem<hex:F61E8B3F0103>拿給採礦工公會的阿達爾博塔查看。
 2,TEXT_CLSMIN550_02082_SEQ_02,從阿達爾博塔與韋德·格利的談話來看，龍堡參天高地很可能存在著優質礦脈。將<hex:022811FF0A>EventItem<hex:F61E8B3F0103>交給忘憂騎士亭的哈伊姆里克。

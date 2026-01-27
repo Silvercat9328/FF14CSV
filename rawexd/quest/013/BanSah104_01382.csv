@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH104_01382_SEQ_00,諾布養育場的菲烏有事情想要委託給冒險者。
 1,TEXT_BANSAH104_01382_SEQ_01,珊瑚尖槍為了和人類開戰，準備了海魔軍糧。前往魚人軍陣營附近，擊退敵兵，奪取<hex:022811FF0A>EventItem<hex:F61E897D0103>。
 2,TEXT_BANSAH104_01382_SEQ_02,成功奪取了<hex:022811FF0A>EventItem<hex:F61E897D0103>。將<hex:022811FF0A>EventItem<hex:F61E897D0103>交給諾布養育場的菲烏。

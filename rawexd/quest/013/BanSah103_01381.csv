@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH103_01381_SEQ_00,諾布養育場的菲烏有事情想要委託給冒險者。
 1,TEXT_BANSAH103_01381_SEQ_01,珊瑚尖槍正在準備攻城兵器<hex:02280FFF09>BNpcName<hex:F209E20103>，用來攻破防波堤。破壞魚人軍陣營的<hex:02280FFF09>BNpcName<hex:F209E20103>。
 2,TEXT_BANSAH103_01381_SEQ_02,成功破壞了<hex:02280FFF09>BNpcName<hex:F209E20103>。向諾布養育場的菲烏報告。

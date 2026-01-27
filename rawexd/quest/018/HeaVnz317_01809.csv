@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ317_01809_SEQ_00,不潔三塔的格林坎比很是煩躁。
 1,TEXT_HEAVNZ317_01809_SEQ_01,格林坎比委託冒險者趕走骨頜族尖兵。和不潔三塔的骨頜族尖兵對話，對方發起攻擊的話就將其討伐。
 2,TEXT_HEAVNZ317_01809_SEQ_02,討伐了骨頜族尖兵。向不潔三塔的格林坎比報告。

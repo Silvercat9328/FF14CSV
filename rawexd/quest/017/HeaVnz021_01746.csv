@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ021_01746_SEQ_00,雷德沃爾德準備進行下一步的行動。
 1,TEXT_HEAVNZ021_01746_SEQ_01,和雷德沃爾德進行了對話。將<hex:022811FF0A>EventItem<hex:F61E8B4B0103>交給隼巢的奧莉安娜。
 2,TEXT_HEAVNZ021_01746_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E8B4B0103>交給了奧莉安娜。不明急病應該是異端者在奪回的物資中下毒所導致。在庫爾札斯西部高地的交匯河營地尋找異端者，並套出情報。

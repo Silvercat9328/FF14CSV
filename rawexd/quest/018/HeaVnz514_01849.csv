@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ514_01849_SEQ_00,天極白堊宮丟三落四的莫古利有些煩心事。
 1,TEXT_HEAVNZ514_01849_SEQ_01,和丟三落四的莫古利進行了交談。候鳥的雛鳥雖然離巢遷徙了，但留下的巢卻很影響景觀。在天極白堊宮獲取5個<hex:022811FF0A>EventItem<hex:F61E8B0F0103>。
 2,TEXT_HEAVNZ514_01849_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8B0F0103>。將<hex:022811FF0A>EventItem<hex:F61E8B0F0103>交給天極白堊宮丟三落四的莫古利。

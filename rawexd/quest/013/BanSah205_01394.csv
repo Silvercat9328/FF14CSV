@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH205_01394_SEQ_00,諾布養育場的荷烏心存憂慮。
 1,TEXT_BANSAH205_01394_SEQ_01,荷烏委託冒險者去燒毀薩普沙產卵地裡的<hex:02280CFF05>EObj<hex:F61E93670103>。使用<hex:022811FF0A>EventItem<hex:F61E896F0103>燒掉4堆薩普沙產卵地裡的<hex:02280CFF05>EObj<hex:F61E93670103>，如果有<hex:02280FFF09>BNpcName<hex:F20A790103>、<hex:02280FFF09>BNpcName<hex:F20A770103>或<hex:02280FFF09>BNpcName<hex:F20A780103>發起攻擊，就將其討伐。
 2,TEXT_BANSAH205_01394_SEQ_02,燒掉了所有的<hex:02280CFF05>EObj<hex:F61E93670103>，並討伐了發起攻擊的珊瑚尖槍成員。向諾布養育場的荷烏報告。

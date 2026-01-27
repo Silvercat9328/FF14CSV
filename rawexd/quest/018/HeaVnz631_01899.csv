@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ631_01899_SEQ_00,玫瑰園的吉爾登正在生氣。
 1,TEXT_HEAVNZ631_01899_SEQ_01,吉爾登希望冒險者能稍微教訓一下那群<hex:02280FFF09>BNpcName<hex:F20DB30103>。在阿巴拉提亞雲海的危步臺討伐3隻<hex:02280FFF09>BNpcName<hex:F20DB30103>。
 2,TEXT_HEAVNZ631_01899_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20DB30103>。向玫瑰園的吉爾登報告。

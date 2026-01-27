@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ914_01979_SEQ_00,螺旋港的訓練系統安靜地佇立著。
 1,TEXT_HEAVNZ914_01979_SEQ_01,訓練系統展開了亞拉戈帝國軍兵將訓練計劃。在阿濟茲拉的阿爾法管區討伐5個<hex:02280FFF09>BNpcName<hex:F20DCC0103>。
 2,TEXT_HEAVNZ914_01979_SEQ_02,成功討伐了5個<hex:02280FFF09>BNpcName<hex:F20DCC0103>。向螺旋港的訓練系統報告。

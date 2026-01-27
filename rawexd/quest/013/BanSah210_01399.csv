@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH210_01399_SEQ_00,諾布養育場的荷烏感到很憤慨。
 1,TEXT_BANSAH210_01399_SEQ_01,珊瑚尖槍一夥為了能更方便發動襲擊，在學習船隻的結構。接受了荷烏的委託，去討伐他們。登上海上的商船，討伐4名<hex:02280FFF09>BNpcName<hex:F209E90103>。諾布養育場的海獸馴養人帕阿會為冒險者準備前往海上商船的水龍蜥。
 2,TEXT_BANSAH210_01399_SEQ_02,討伐了海上商船的<hex:02280FFF09>BNpcName<hex:F209E90103>。向諾布養育場的荷烏報告。

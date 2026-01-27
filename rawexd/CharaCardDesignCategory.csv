@@ -1,7 +1,7 @@
 ﻿key,0,1
-#,,
+#,SortKey,Name
 offset,4,0
-int32,byte,str
+Int32,UInt8,String
 0,0,顯示全部
 1,0,標準
 2,1,職業&特職

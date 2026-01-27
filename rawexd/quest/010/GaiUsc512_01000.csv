@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC512_01000_SEQ_00,喪靈鐘的古奧爾蓋姆有事情想要委託給冒險者。
 1,TEXT_GAIUSC512_01000_SEQ_01,古奧爾蓋姆很在意飛空艇的殘骸。前往喪靈鐘東南方的飛空艇墜落地，獲取<hex:022811FF0A>EventItem<hex:F61E877D0103>。
 2,TEXT_GAIUSC512_01000_SEQ_02,收集到了<hex:022811FF0A>EventItem<hex:F61E877D0103>。讓聖寇伊納克調查地的旺達凌·布里茲查看。

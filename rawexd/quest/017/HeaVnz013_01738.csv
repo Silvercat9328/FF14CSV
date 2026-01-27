@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ013_01738_SEQ_00,雲頂營地的卡里博一邊照看農田，一邊在尋找有空閒的人。
 1,TEXT_HEAVNZ013_01738_SEQ_01,卡里博拜託冒險者討伐<hex:02280FFF09>BNpcName<hex:F20DA70103>並取回腿肉。前往阿巴拉提亞雲海的雲頂營地，打倒<hex:02280FFF09>BNpcName<hex:F20DA70103>，獲得3個<hex:022811FF0A>EventItem<hex:F61E8ABD0103>。
 2,TEXT_HEAVNZ013_01738_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8ABD0103>。將<hex:022811FF0A>EventItem<hex:F61E8ABD0103>交給雲頂營地的卡里博。

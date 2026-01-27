@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANAMA206_01237_SEQ_00,灰陣營的納爾基·冬針對麻煩事想了一條計策。
 1,TEXT_BANAMA206_01237_SEQ_01,接受了納爾基·冬的委託。調查贊拉克祭場周圍的<hex:02280CFF05>EObj<hex:F61E90E50103>，獲取<hex:022811FF0A>EventItem<hex:F61E89280103>。
 2,TEXT_BANAMA206_01237_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E89280103>。在贊拉克側翼陣南方的<hex:02280CFF05>EObj<hex:F61E90ED0103>等待，打倒現身的<hex:02280FFF09>BNpcName<hex:F208FB0103>，獲取<hex:022811FF0A>EventItem<hex:F61E892B0103>。對<hex:02280FFF09>BNpcName<hex:F208FB0103>使用<hex:022811FF0A>EventItem<hex:F61E89280103>可以使其弱化。

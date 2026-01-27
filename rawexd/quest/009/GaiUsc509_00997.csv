@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC509_00997_SEQ_00,喪靈鐘的冒險者阿加恩博爾德想要測試下<hex:022903EB0203>的實力。
 1,TEXT_GAIUSC509_00997_SEQ_01,要在喪靈鐘進行冒險活動的話，需要通過某個儀式。前往喪靈鐘西邊的糾纏沼澤林，討伐3隻<hex:02280EFF09>BNpcName<hex:F0ED0103>。
 2,TEXT_GAIUSC509_00997_SEQ_02,成功討伐了<hex:02280EFF09>BNpcName<hex:F0ED0103>。返回喪靈鐘，向阿加恩博爾德報告。

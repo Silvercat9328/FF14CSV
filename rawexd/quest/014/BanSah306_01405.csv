@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH306_01405_SEQ_00,諾布養育場的塞烏有事情想要委託給冒險者。
 1,TEXT_BANSAH306_01405_SEQ_01,塞烏為了餵飽弟弟們，想要冒險者獲取<hex:022811FF0A>EventItem<hex:F61E89810103>。首先在薩普沙產卵地討伐<hex:02280FFF09>BNpcName<hex:F207270103>，獲取<hex:022811FF0A>EventItem<hex:F61E89780103>。
 2,TEXT_BANSAH306_01405_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E89780103>。前往薩普沙產卵地最深處，調查<hex:02280CFF05>EObj<hex:F61E93980103>。如果受到<hex:02280FFF09>BNpcName<hex:F20A760103>、<hex:02280FFF09>BNpcName<hex:F20A770103>或<hex:02280FFF09>BNpcName<hex:F20A780103>的襲擊，就將其討伐。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANKOB209_01343_SEQ_00,第789洞穴團採礦地的第789團工匠博古，有件事無法釋懷。
 1,TEXT_BANKOB209_01343_SEQ_01,第13團指導者佐加的手下們日夜在煉金工房勤奮工作，第789團工匠博古對此很看不慣。他想讓那些研究員覺得煉金工房裡很危險，隨時都會被人類襲擊，以此來妨礙他們工作。與第13洞穴團煉金工房的<hex:02280FFF09>BNpcName<hex:F20A8F0103>和<hex:02280FFF09>BNpcName<hex:F20A900103>對話，待他們注意到冒險者之後，將其打倒。
 2,TEXT_BANKOB209_01343_SEQ_02,打倒了<hex:02280FFF09>BNpcName<hex:F20A8F0103>和<hex:02280FFF09>BNpcName<hex:F20A900103>。向第789洞穴團採礦地的第789團工匠博古報告。

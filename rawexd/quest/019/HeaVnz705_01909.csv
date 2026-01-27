@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ705_01909_SEQ_00,尊杜集落的加努瓦利對驅滅不完的蟲子感到煩心。
 1,TEXT_HEAVNZ705_01909_SEQ_01,加努瓦利委託冒險者拿回<hex:022811FF0A>EventItem<hex:F61E8B060103>。在阿巴拉提亞雲海的藍天窗獲取3個<hex:022811FF0A>EventItem<hex:F61E8B060103>。
 2,TEXT_HEAVNZ705_01909_SEQ_02,獲得了3個<hex:022811FF0A>EventItem<hex:F61E8B060103>。將<hex:022811FF0A>EventItem<hex:F61E8B060103>交給尊杜集落的加努瓦利。

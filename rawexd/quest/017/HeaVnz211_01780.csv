@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ211_01780_SEQ_00,尾羽集落周邊營地的獵人很在意寬慰河的上游。
 1,TEXT_HEAVNZ211_01780_SEQ_01,尾羽集落的獵人拜託冒險者消滅<hex:02280FFF09>BNpcName<hex:F20DEE0103>。前往龍堡參天高地的悲嘆飛泉討伐4隻<hex:02280FFF09>BNpcName<hex:F20DEE0103>。
 2,TEXT_HEAVNZ211_01780_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20DEE0103>。向尾羽集落周邊營地的尾羽集落的獵人報告。

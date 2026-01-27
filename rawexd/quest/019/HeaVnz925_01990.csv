@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ925_01990_SEQ_00,德爾塔管區的拘束系統安靜地佇立著。
 1,TEXT_HEAVNZ925_01990_SEQ_01,認為冒險者是亞拉戈帝國軍兵將的拘束系統命令冒險者討伐拘束具脫落的龍族。在德爾塔管區討伐<hex:02280FFF09>BNpcName<hex:F20DE80103>和<hex:02280FFF09>BNpcName<hex:F20DE20103>各3隻。
 2,TEXT_HEAVNZ925_01990_SEQ_02,成功討伐了龍族。向德爾塔管區的拘束系統報告。

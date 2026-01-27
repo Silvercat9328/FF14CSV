@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB406_00862_SEQ_00,瞭望陣營地斯威古雷爾，有東西希望冒險者能幫忙拿來。
 1,TEXT_GAIUSB406_00862_SEQ_01,斯威古雷爾有東西忘了拿回來。收集<hex:022811FF0A>EventItem<hex:F61E871D0103>和<hex:022811FF0A>EventItem<hex:F61E88210103>各3樣。
 2,TEXT_GAIUSB406_00862_SEQ_02,收集齊了<hex:022811FF0A>EventItem<hex:F61E871D0103>和<hex:022811FF0A>EventItem<hex:F61E88210103>。將其交給瞭望陣營地斯威古雷爾。

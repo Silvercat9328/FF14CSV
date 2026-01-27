@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA402_00744_SEQ_00,妖精暫留地的科姆希奧，有事想要告訴冒險者。
 1,TEXT_GAIUSA402_00744_SEQ_01,從科姆希奧處接受了若干委託。首先，前往妖精暫留地的東面，在科姆希奧標註的印記上，做情感動作「張望」。
 2,TEXT_GAIUSA402_00744_SEQ_02,觀察到了被精煉的妖精族。前往格里達尼亞的蛇巢司令部，將<hex:022811FF0A>EventItem<hex:F61E86D40103>交給沃爾賽勒正牙校。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ521_01856_SEQ_00,惋惜之晶遺跡觀察細緻的莫古利非常害怕。
 1,TEXT_HEAVNZ521_01856_SEQ_01,觀察細緻的莫古利在遺跡參觀學習時被正在產卵的魔物嚇到了。在惋惜之晶遺跡討伐3隻<hex:02280FFF09>BNpcName<hex:F210BF0103>。
 2,TEXT_HEAVNZ521_01856_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F210BF0103>。向惋惜之晶遺跡觀察細緻的莫古利報告。

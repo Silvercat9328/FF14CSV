@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_CLSTAN010_00066_SEQ_00,製革匠公會的蓋娃，有件事想要委託給冒險者。
 1,TEXT_CLSTAN010_00066_SEQ_01,接受了蓋娃的委託。將<hex:022811FF0A>EventItem<hex:F61E87A70103>交給格里達尼亞口哨磨坊中的委託人。
 2,TEXT_CLSTAN010_00066_SEQ_02,將東西交給了委託人。與格里達尼亞製革匠公會的蓋娃交談。

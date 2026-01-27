@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB308_00849_SEQ_00,葡萄酒港的埃特加爾，想要冒險者去討伐魔物。
 1,TEXT_GAIUSB308_00849_SEQ_01,因釀造葡萄酒產生的污水，導致河流中的<hex:02280DFF09>BNpcName<hex:1B0103>大量繁殖。討伐3隻<hex:02280DFF09>BNpcName<hex:1B0103>。
 2,TEXT_GAIUSB308_00849_SEQ_02,成功討伐了<hex:02280DFF09>BNpcName<hex:1B0103>。向葡萄酒港的埃特加爾報告。

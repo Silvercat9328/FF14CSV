@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC411_00986_SEQ_00,喪靈鐘的格拉烏蒙特，想要提供情報給冒險者。
 1,TEXT_GAIUSC411_00986_SEQ_01,冒險者首先要去探探帝國中央堡的底細。糾纏沼澤林緊靠著要塞司令塔，前往那裡調查<hex:02280CFF05>EObj<hex:F61E8D190103>。
 2,TEXT_GAIUSC411_00986_SEQ_02,據格拉烏蒙特所說，藉由<hex:02280CFF05>EObj<hex:F61E8D190103>可以聽到要塞內部的聲音……進入<hex:02280CFF05>EObj<hex:F61E8D190103>。

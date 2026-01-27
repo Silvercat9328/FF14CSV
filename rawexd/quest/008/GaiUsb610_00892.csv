@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB610_00892_SEQ_00,天火要塞群的衛兵普雷里約有事情想要委託給冒險者。
 1,TEXT_GAIUSB610_00892_SEQ_01,普雷里約想要補充<hex:022811FF0A>EventItem<hex:F61E873A0103>。尋找<hex:02280CFF05>EObj<hex:F61E8CC10103>，收集8束<hex:022811FF0A>EventItem<hex:F61E873A0103>。
 2,TEXT_GAIUSB610_00892_SEQ_02,收集齊了<hex:022811FF0A>EventItem<hex:F61E873A0103>。將其交給天火要塞群西部高臺上的斯特凡諾。

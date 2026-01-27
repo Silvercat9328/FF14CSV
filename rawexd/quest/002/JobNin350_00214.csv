@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_JOBNIN350_00214_SEQ_00,燕很欽佩冒險者。
 1,TEXT_JOBNIN350_00214_SEQ_01,朧在等冒險者。和碼頭小屋裡的朧談談。
 2,TEXT_JOBNIN350_00214_SEQ_02,朧傳授了冒險者新的地之印。再次和朧談談，聽取關於修行的說明。

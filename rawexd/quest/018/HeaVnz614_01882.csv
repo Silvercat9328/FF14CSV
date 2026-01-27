@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ614_01882_SEQ_00,東方眼目的東北偵察隊的龍騎士丟了些東西。
 1,TEXT_HEAVNZ614_01882_SEQ_01,東北偵察隊的龍騎士被龍族襲擊，丟失了非常重要的<hex:022811FF0A>EventItem<hex:F61E8AFB0103>。在翻雲霧海的東方眼目回收2個<hex:022811FF0A>EventItem<hex:F61E8AFB0103>。
 2,TEXT_HEAVNZ614_01882_SEQ_02,回收了2個<hex:022811FF0A>EventItem<hex:F61E8AFB0103>。向東方眼目的東北偵察隊的龍騎士報告。

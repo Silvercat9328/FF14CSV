@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH309_01408_SEQ_00,諾布養育場的塞烏有事情想要委託給冒險者。
 1,TEXT_BANSAH309_01408_SEQ_01,塞烏委託冒險者去燒掉海蛇之舌儲備的大量物資。登上海上的海盜船，用<hex:022811FF0A>EventItem<hex:F61E898C0103>燒掉4個<hex:02280CFF05>EObj<hex:F61E94300103>。諾布養育場的海獸馴養人帕阿會為冒險者準備前往海上的海盜船的水龍蜥。
 2,TEXT_BANSAH309_01408_SEQ_02,燒掉了<hex:02280CFF05>EObj<hex:F61E94300103>。向諾布養育場的塞烏報告。

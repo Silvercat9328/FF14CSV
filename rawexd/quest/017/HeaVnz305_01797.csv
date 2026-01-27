@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ305_01797_SEQ_00,尾羽集落的馬塞尚大意了。
 1,TEXT_HEAVNZ305_01797_SEQ_01,馬塞尚委託冒險者去收集情報。在龍堡參天高地陸行鳥之森的3處營地中收集情報。
 2,TEXT_HEAVNZ305_01797_SEQ_02,在營地收集完了情報。向尾羽集落的馬塞尚報告。

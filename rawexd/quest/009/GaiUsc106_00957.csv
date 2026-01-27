@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC106_00957_SEQ_00,跨天橋的海爾姆哈特，有一件無論如何都想得到的東西。
 1,TEXT_GAIUSC106_00957_SEQ_01,海爾姆哈特的頭皮狀態沒有任何變化。他要尋求更加有效的生髮劑。討伐火牆附近的<hex:02280FFF09>BNpcName<hex:F2010F0103>，獲取5個<hex:022811FF0A>EventItem<hex:F61E87670103>。
 2,TEXT_GAIUSC106_00957_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E87670103>。與海爾姆哈特交談。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ603_01871_SEQ_00,瑪艾娜想請求冒險者最後一個願望。
 1,TEXT_HEAVNZ603_01871_SEQ_01,瑪艾娜希望冒險者將<hex:022811FF0A>EventItem<hex:F61E8AFE0103>和<hex:022811FF0A>EventItem<hex:F61E8AFF0103>交給昂德盧。在飛龍港獲取<hex:022811FF0A>EventItem<hex:F61E8AFE0103>。
 2,TEXT_HEAVNZ603_01871_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AFE0103>。從翻雲霧海東方眼目的東北偵察隊的龍騎士那裡獲取<hex:022811FF0A>EventItem<hex:F61E8AFF0103>。

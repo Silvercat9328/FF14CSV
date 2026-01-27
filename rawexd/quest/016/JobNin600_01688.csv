@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_JOBNIN600_01688_SEQ_00,碼頭小屋的朧在警戒附近的情況。
 1,TEXT_JOBNIN600_01688_SEQ_01,碼頭小屋被什麼人包圍了。露出破綻引敵方上鉤後將其擊退。對碼頭小屋附近的<hex:02280CFF05>EObj<hex:F61E9BB40103>使用情感動作「打盹」，討伐出現的灰犬家族。
 2,TEXT_JOBNIN600_01688_SEQ_02,討伐了灰犬家族。回碼頭小屋和朧談談。

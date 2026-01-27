@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA903_00798_SEQ_00,山人岩穴的開山工阿德馬爾想要冒險者幫忙準備梯子。
 1,TEXT_GAIUSA903_00798_SEQ_01,阿德馬爾等開山工正在調查岩盤。可因為地勢高低懸殊，工作較難展開。在<hex:02280CFF05>EObj<hex:F61E8C4C0103>放置<hex:022811FF0A>EventItem<hex:F61E86F50103>。
 2,TEXT_GAIUSA903_00798_SEQ_02,放置好了<hex:022811FF0A>EventItem<hex:F61E86F50103>。向山人岩穴的阿德馬爾報告。

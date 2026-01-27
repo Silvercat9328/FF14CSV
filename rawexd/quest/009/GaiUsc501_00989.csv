@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC501_00989_SEQ_00,喪靈鐘的古奧爾蓋姆，有東西想要搬走。
 1,TEXT_GAIUSC501_00989_SEQ_01,古奧爾蓋姆的工作是將物資由廢棄營地運到喪靈鐘。對廢棄營地中的<hex:02280CFF05>EObj<hex:F61E8D200103>使用<hex:022811FF0A>EventItem<hex:F61E87E40103>，收集<hex:022811FF0A>EventItem<hex:F61E87760103>。
 2,TEXT_GAIUSC501_00989_SEQ_02,集齊了<hex:022811FF0A>EventItem<hex:F61E87760103>。返回喪靈鐘，將<hex:022811FF0A>EventItem<hex:F61E87760103>交給古奧爾蓋姆。

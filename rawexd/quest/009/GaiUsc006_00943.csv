@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC006_00943_SEQ_00,白雲崖前哨的阿斯蒂迪安，想要冒險者去迎接某人。
 1,TEXT_GAIUSC006_00943_SEQ_01,白雲崖前哨的野戰醫院僱傭了一位新醫師。與巨龍首營地的布雷托尼厄交談。
 2,TEXT_GAIUSC006_00943_SEQ_02,看來冒險者錯過了醫師。搜尋迷路的醫師，對他使用<hex:022811FF0A>EventItem<hex:F61E875F0103>。

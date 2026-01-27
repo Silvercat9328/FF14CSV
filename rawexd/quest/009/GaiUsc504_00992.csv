@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC504_00992_SEQ_00,聖寇伊納克調查地的拉姆布魯斯，正為魔物頻繁出沒而感到萬分煩惱。
 1,TEXT_GAIUSC504_00992_SEQ_01,調查員經常會在北方的水晶地區遭到<hex:02280FFF09>BNpcName<hex:F203150103>的襲擊。討伐3隻<hex:02280FFF09>BNpcName<hex:F203150103>。
 2,TEXT_GAIUSC504_00992_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F203150103>。向聖寇伊納克調查地的拉姆布魯斯報告。

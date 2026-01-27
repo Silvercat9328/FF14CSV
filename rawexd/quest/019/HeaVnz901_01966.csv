@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ901_01966_SEQ_00,瑪托雅的洞穴的薩羅·羅格憂鬱地低語著。
 1,TEXT_HEAVNZ901_01966_SEQ_01,薩羅·羅格委託冒險者去消滅瑪托雅的藥草裡的蟲子。在龍堡內陸低地的瑪托雅的洞穴前，調查3處<hex:02280CFF05>EObj<hex:F61E9C2D0103>，消滅<hex:02280FFF09>BNpcName<hex:F20FE50103>。
 2,TEXT_HEAVNZ901_01966_SEQ_02,消滅了<hex:02280FFF09>BNpcName<hex:F20FE50103>。向瑪托雅的洞穴的薩羅·羅格報告。

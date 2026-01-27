@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ503_01838_SEQ_00,莫古利之家關懷備至的莫古利在盯著強力草看。
 1,TEXT_HEAVNZ503_01838_SEQ_01,和關懷備至的莫古利進行了交談。對翻雲霧海招惡荒島的<hex:02280FFF09>BNpcName<hex:F20E2B0103>使用<hex:022811FF0A>EventItem<hex:F61E8AEA0103>，取得其身上的<hex:022811FF0A>EventItem<hex:F61E8AEB0103>。
 2,TEXT_HEAVNZ503_01838_SEQ_02,得到了<hex:022811FF0A>EventItem<hex:F61E8AEB0103>。將<hex:022811FF0A>EventItem<hex:F61E8AEB0103>交給莫古利之家關懷備至的莫古利。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_JOBNIN500_00234_SEQ_00,朧好像已經考慮清楚了。
 1,TEXT_JOBNIN500_00234_SEQ_01,朧委託冒險者照顧受傷的燕。和碼頭小屋的燕對話。
 2,TEXT_JOBNIN500_00234_SEQ_02,燕的傷基本痊癒了。她希望冒險者去看看朧。前往拉諾西亞高地的愚者瀑布，尋找朧。

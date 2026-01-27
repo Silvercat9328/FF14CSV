@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNA115_01594_SEQ_00,玫瑰園的瑪麗埃勒非常擔心。
 1,TEXT_HEAVNA115_01594_SEQ_01,瑪麗埃勒委託冒險者去看看拉妮艾特。和玫瑰園的拉妮艾特談談。
 2,TEXT_HEAVNA115_01594_SEQ_02,拉妮艾特委託冒險者帶著埃馬內蘭前往沃仙曦染採取<hex:022811FF0A>EventItem<hex:F61E8AA60103>。和玫瑰園的埃馬內蘭談談。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB611_00893_SEQ_00,天火要塞群的西爾萬泰爾有事情想要委託給冒險者。
 1,TEXT_GAIUSB611_00893_SEQ_01,為了確保儲備物資，討伐<hex:02280FFF09>BNpcName<hex:F2031B0103>，獲取<hex:022811FF0A>EventItem<hex:F61E873B0103>和<hex:022811FF0A>EventItem<hex:F61E873C0103>。
 2,TEXT_GAIUSB611_00893_SEQ_02,順利獲得了<hex:022811FF0A>EventItem<hex:F61E873B0103>和<hex:022811FF0A>EventItem<hex:F61E873C0103>。將這兩樣東西給要塞中的4名哨兵每人各送去3份。

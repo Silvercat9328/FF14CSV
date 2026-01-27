@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB511_00880_SEQ_00,聖阿達瑪·蘭達瑪教會的迪迪居，正煩惱於如何修補法衣。
 1,TEXT_GAIUSB511_00880_SEQ_01,用來修補法衣的布料不夠了。前往中薩納蘭的黑塵驛站，從老實的商人手中拿到<hex:022811FF0A>EventItem<hex:F61E872F0103>。
 2,TEXT_GAIUSB511_00880_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E872F0103>。將其交給聖阿達瑪·蘭達瑪教會的迪迪居。

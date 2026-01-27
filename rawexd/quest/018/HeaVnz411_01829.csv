@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ411_01829_SEQ_00,天極白堊宮勤勞忙碌的莫古利看起來很忙。
 1,TEXT_HEAVNZ411_01829_SEQ_01,勤勞忙碌的莫古利委託冒險者運送土壤。從天極白堊宮的<hex:02280CFF05>EObj<hex:F61E9AB30103>中獲取<hex:022811FF0A>EventItem<hex:F61E8AE20103>。
 2,TEXT_HEAVNZ411_01829_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AE20103>。將<hex:022811FF0A>EventItem<hex:F61E8AE20103>交給莫古利之家的莫古莫莫。

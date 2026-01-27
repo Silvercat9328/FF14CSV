@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB705_00900_SEQ_00,巨龍首營地的科朗蒂奧想要委託冒險者去討伐魔物。
 1,TEXT_GAIUSB705_00900_SEQ_01,巨龍首營地的搜索隊因為<hex:02280FFF09>BNpcName<hex:F20B660103>而遇難，造成了很大的損害。討伐4隻<hex:02280FFF09>BNpcName<hex:F20B660103>。
 2,TEXT_GAIUSB705_00900_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F20B660103>。向巨龍首營地的科朗蒂奧報告。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_CHRHDB504_00493_SEQ_00,陌生的女性好像知道些什麼。
 1,TEXT_CHRHDB504_00493_SEQ_01,出現的那位陌生女性是埃莉的妹妹塞茜。希爾迪布蘭德為菲莉絲擋下塞茜撒出的來生神之淚後倒下了。和出現在寶庫門前的希爾迪布蘭德的母親茱莉安談談。
 2,TEXT_CHRHDB504_00493_SEQ_02,茱莉安想要使用<hex:022811FF0A>EventItem<hex:F61E8A970103>和<hex:022811FF0A>EventItem<hex:F61E8A980103>，在來生神之淚的毒素擴散至希爾迪布蘭德全身前將毒素淨化。先前往藍玉大街國際市場，從辛特戈特處獲取<hex:022811FF0A>EventItem<hex:F61E8A970103>。

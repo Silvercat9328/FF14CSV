@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSYL307_01283_SEQ_00,妖精暫留地的莫奇希亞很擔心搖籃的情況。
 1,TEXT_BANSYL307_01283_SEQ_01,接受了莫奇希亞的委託。拿起搖籃樹旁邊的<hex:02280CFF05>EObj<hex:F61E915C0103>。
 2,TEXT_BANSYL307_01283_SEQ_02,將搖籃樹旁邊的<hex:02280CFF05>EObj<hex:F61E915C0103>搬運到妖精領的暫留地妖精身旁，放置到<hex:02280CFF05>EObj<hex:F61E91BE0103>。<hex:02100103><hex:02100103>※搬運狀態只能維持一段時間。接觸<hex:02280CFF05>EObj<hex:F61E91BD0103>可以延長搬運狀態的持續時間。

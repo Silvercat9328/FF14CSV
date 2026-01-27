@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_SUBSEA922_01430_SEQ_00,捕魚人公會的希希蒲有事情想要委託給冒險者。
 1,TEXT_SUBSEA922_01430_SEQ_01,接受了希希蒲的委託。和利姆薩·羅敏薩網倉的瓦瓦拉哥談談。
 2,TEXT_SUBSEA922_01430_SEQ_02,和瓦瓦拉哥進行了交談。瓦瓦拉哥想要冒險者去釣魚。將1條<hex:02280BFF05>Item<hex:F2133C0103>交給瓦瓦拉哥。在西薩納蘭的西風岬釣場，用<hex:02280BFF05>Item<hex:F20A190103>作魚餌釣到<hex:02280BFF05>Item<hex:F213050103>，再用這個魚當餌，以小釣大，可以釣到<hex:02280BFF05>Item<hex:F213280103>，再一次以小釣大，就可以釣到<hex:02280BFF05>Item<hex:F2133C0103>。

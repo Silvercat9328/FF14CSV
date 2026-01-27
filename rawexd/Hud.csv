@@ -1,7 +1,7 @@
 ﻿key,0
 #,
 offset,0
-int32,str
+Int32,String
 0,熱鍵欄1
 1,熱鍵欄2
 2,熱鍵欄3

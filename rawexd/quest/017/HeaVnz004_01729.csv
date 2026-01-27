@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ004_01729_SEQ_00,寶杖大街的瑪斯在找一個可以委託工作的人。
 1,TEXT_HEAVNZ004_01729_SEQ_01,瑪斯希望冒險者將<hex:022811FF0A>EventItem<hex:F61E8B8A0103>送去聖大鳥房。在伊修加德的寶杖大街取得<hex:022811FF0A>EventItem<hex:F61E8B8A0103>。
 2,TEXT_HEAVNZ004_01729_SEQ_02,回收了<hex:022811FF0A>EventItem<hex:F61E8B8A0103>。將<hex:022811FF0A>EventItem<hex:F61E8B8A0103>送給聖大鳥房的瑟維莉亞。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ515_01850_SEQ_00,飛龍港的莫古茲恩有些不安。
 1,TEXT_HEAVNZ515_01850_SEQ_01,莫古茲恩為了對付不斷逼近的凶暴龍族而成立了茲恩戰鬥團。在飛龍港尋找警戒中的莫古利們。
 2,TEXT_HEAVNZ515_01850_SEQ_02,找到了警戒中莫古利們。向飛龍港的莫古茲恩報告。

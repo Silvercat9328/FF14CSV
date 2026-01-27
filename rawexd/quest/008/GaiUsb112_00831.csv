@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB112_00831_SEQ_00,遺忘綠洲的族長烏·歐德·努恩，有東西想要冒險者代為傳遞。
 1,TEXT_GAIUSB112_00831_SEQ_01,烏·歐德·努恩想讓冒險者派送<hex:022811FF0A>EventItem<hex:F61E87090103>。將其送給太陽海岸的維斯凱特。
 2,TEXT_GAIUSB112_00831_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E87090103>送給了維斯凱特。維斯凱特會告訴冒險者最後的美味的下落。

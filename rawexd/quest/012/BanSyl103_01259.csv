@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSYL103_01259_SEQ_00,妖精暫留地的特那克希亞好像遇上了些麻煩。
 1,TEXT_BANSYL103_01259_SEQ_01,接受了特那克希亞的委託。在百靈啼獲取5個<hex:022811FF0A>EventItem<hex:F61E890B0103>。
 2,TEXT_BANSYL103_01259_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E890B0103>。將<hex:022811FF0A>EventItem<hex:F61E890B0103>交給妖精暫留地的特那克希亞。

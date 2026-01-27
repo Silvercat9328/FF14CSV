@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ407_01825_SEQ_00,贖罪天廊的莫古索恩對人類的遺跡非常感興趣。
 1,TEXT_HEAVNZ407_01825_SEQ_01,莫古索恩落下了<hex:022811FF0A>EventItem<hex:F61E8AE10103>。在翻雲霧海的四臂廣場回收3個<hex:022811FF0A>EventItem<hex:F61E8AE10103>。
 2,TEXT_HEAVNZ407_01825_SEQ_02,回收了<hex:022811FF0A>EventItem<hex:F61E8AE10103>。將<hex:022811FF0A>EventItem<hex:F61E8AE10103>交給贖罪天廊的莫古索恩。

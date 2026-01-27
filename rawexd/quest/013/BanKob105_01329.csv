@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANKOB105_01329_SEQ_00,第789洞穴團採礦地的第789團清潔工博茲顯得很慌張。
 1,TEXT_BANKOB105_01329_SEQ_01,據第789團清潔工博茲所說，採礦地所飼養的<hex:02280FFF09>BNpcName<hex:F20A800103>逃跑了，為此他十分困擾。在黑金湖尋找並討伐<hex:02280FFF09>BNpcName<hex:F20A800103>，獲取3個<hex:022811FF0A>EventItem<hex:F61E89310103>。
 2,TEXT_BANKOB105_01329_SEQ_02,從<hex:02280FFF09>BNpcName<hex:F20A800103>身上獲得了<hex:022811FF0A>EventItem<hex:F61E89310103>。將<hex:022811FF0A>EventItem<hex:F61E89310103>交給第789洞穴團採礦地的第789團清潔工博茲。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC306_00973_SEQ_00,十二神大聖堂的艾爾芙蕾妲，有想要的東西。
 1,TEXT_GAIUSC306_00973_SEQ_01,艾爾芙蕾妲想將<hex:022811FF0A>EventItem<hex:F61E876F0103>用在朋友的結婚典禮中。打倒<hex:02280DFF09>BNpcName<hex:740103>，獲得4個<hex:022811FF0A>EventItem<hex:F61E876F0103>。
 2,TEXT_GAIUSC306_00973_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E876F0103>。返回十二神大聖堂，將其交給艾爾芙蕾妲。

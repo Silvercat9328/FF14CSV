@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA509_00761_SEQ_00,恆輝隊的吉西爾貝爾特，有事想要委託給正在尋找面具男的冒險者。
 1,TEXT_GAIUSA509_00761_SEQ_01,吉西爾貝爾特的部下似乎看到了面具男。將慰勞品<hex:022811FF0A>EventItem<hex:F61E86DF0103>分別交給小阿拉米格南面駐地的3名恆輝隊隊員，向他們打聽情報。
 2,TEXT_GAIUSA509_00761_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E86DF0103>送到後，從他們口中打聽到了消息。面具男果然與阿拉米格人有著某種關聯。向小阿拉米格的吉西爾貝爾特報告。

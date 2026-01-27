@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_JOBDEFMCH_00296_PELDERAIN_000_000,歡迎來到射穿皇都軍事技術極限的天鋼機工房！
 1,TEXT_JOBDEFMCH_00296_PELDERAIN_000_001,呀，<hex:022903EB0203>。<hex:02100103>有什麼不懂的就儘管向我這個前輩提問好了！
 2,TEXT_JOBDEFMCH_00296_PELDERAIN_Q1_000_000,想了解什麼？

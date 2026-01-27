@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC010_00947_SEQ_00,披雪大冰壁的奧爾蒂里克，立刻有工作想要委託給冒險者。
 1,TEXT_GAIUSC010_00947_SEQ_01,打倒3隻妨礙調查的<hex:02280FFF09>BNpcName<hex:F203160103>。
 2,TEXT_GAIUSC010_00947_SEQ_02,打倒了<hex:02280FFF09>BNpcName<hex:F203160103>。向披雪大冰壁的奧爾蒂里克報告。

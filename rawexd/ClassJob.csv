@@ -1,7 +1,7 @@
 ﻿key,0,2
-#,Name,
+#,Name,NameFemale
 offset,0,8
-int32,str,str
+Int32,String,String
 0,冒險者,
 1,劍術師,劍
 2,格鬥家,格

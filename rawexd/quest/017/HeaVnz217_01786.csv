@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ217_01786_SEQ_00,自由腦窟穴的西布勒魯瓦肚子餓得不行。
 1,TEXT_HEAVNZ217_01786_SEQ_01,西布勒魯瓦拜託冒險者取得<hex:022811FF0A>EventItem<hex:F61E8ACB0103>。前往龍堡參天高地的寬慰河，討伐<hex:02280FFF09>BNpcName<hex:F20DF10103>並獲得5個<hex:022811FF0A>EventItem<hex:F61E8ACB0103>。
 2,TEXT_HEAVNZ217_01786_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8ACB0103>。將<hex:022811FF0A>EventItem<hex:F61E8ACB0103>交給自由腦窟穴的西布勒魯瓦。

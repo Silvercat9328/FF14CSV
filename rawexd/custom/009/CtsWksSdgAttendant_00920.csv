@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_001,嗯？你是新來的嗎？<hex:02100103>先去找查明威了解一下我們的探索計劃再來吧。
 1,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_016,歡迎來到法恩娜行星！<hex:02100103>先去找查明威了解一下情況吧！
-2,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_017,はるばる、惑星オイジュスにようこそっショ～！<hex:02100103>まずはサーチングウェイから、話を聞いてくるといいっショ～！
+2,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_017,歡迎來到遙遠的俄匊斯行星！<hex:02100103>先去找查明威了解一下情況吧！
 3,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_002,歡迎來到宇宙研究所！<hex:02100103>為了提高宇宙探索計劃的推進效率，<hex:02100103>我們正在分析探索數據，開發新的工具！
 4,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_003,你要不要也來協助我們的研究？<hex:02100103>完成探索任務，積累足夠的宇宙數據後提交給我，<hex:02100103>就能推進研究任務啦！
 5,TEXT_CTSWKSSDGATTENDANT_00920_RESEARCHINGWAY_000_004,現在的宇宙工具還處於試製階段，<hex:02100103>只要不斷收集、分析數據，推進研究，<hex:02100103>工具的性能就會逐步升級強化哦！

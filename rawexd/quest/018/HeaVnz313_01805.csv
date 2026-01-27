@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ313_01805_SEQ_00,自由腦窟穴的骨頜族離群者凝視著冒險者。
 1,TEXT_HEAVNZ313_01805_SEQ_01,骨頜族離群者委託冒險者去收集美味佳餚。前往龍堡參天高地的阿瓦隆尼亞古陸，討伐<hex:02280FFF09>BNpcName<hex:F20DFA0103>，獲得3份<hex:022811FF0A>EventItem<hex:F61E8ADB0103>。
 2,TEXT_HEAVNZ313_01805_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8ADB0103>。將<hex:022811FF0A>EventItem<hex:F61E8ADB0103>交給自由腦窟穴的骨頜族離群者。

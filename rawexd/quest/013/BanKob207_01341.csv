@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANKOB207_01341_SEQ_00,第789洞穴團採礦地的第789團工匠博古，想去妨礙別人。
 1,TEXT_BANKOB207_01341_SEQ_01,第789團工匠博古想給第13團指導者佐加搗亂，妨礙他調整新造煉金爐。向第789洞穴團採礦地的第789團輔祭巴戈討教燒毀<hex:02280CFF05>EObj<hex:F61E93AA0103>的方法。
 2,TEXT_BANKOB207_01341_SEQ_02,第789團輔祭巴戈告訴冒險者，可以用<hex:022811FF0A>EventItem<hex:F61E897B0103>燒毀資材。先將<hex:022811FF0A>EventItem<hex:F61E897A0103>設定在第13洞穴團煉金工房的<hex:02280CFF05>EObj<hex:F61E93AA0103>上。黑金湖的第13團煉金術士加吉會帶領冒險者前往第13洞穴團煉金工房。

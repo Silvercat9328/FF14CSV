@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ619_01887_SEQ_00,隼巢的陷入煩惱的男人很擔心親屬的安危。
 1,TEXT_HEAVNZ619_01887_SEQ_01,陷入煩惱的男人希望冒險者能說服自己的叔父，讓叔父與自己在隼巢一起生活。前往庫爾札斯西部高地的填絮碼頭，和埃蒙談談。
 2,TEXT_HEAVNZ619_01887_SEQ_02,和埃蒙進行了交談，可是他卻沒有任何要離開的意思。為了確保安全，埃蒙希望冒險者討伐<hex:02280FFF09>BNpcName<hex:F20D9F0103>。在庫爾札斯西部高地的災禍池討伐3隻<hex:02280FFF09>BNpcName<hex:F20D9F0103>。

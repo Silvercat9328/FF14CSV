@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANKOB101_01325_SEQ_00,第789洞穴團採礦地的第789團清潔工博茲有事情想要委託給冒險者。
 1,TEXT_BANKOB101_01325_SEQ_01,接受了第789團清潔工博茲的委託，假裝從地靈族處搶奪資源，將資源交給黑渦團的補給兵，以此換取食物。在黑金湖收集3個<hex:022811FF0A>EventItem<hex:F61E895F0103>。
 2,TEXT_BANKOB101_01325_SEQ_02,收集到了<hex:022811FF0A>EventItem<hex:F61E895F0103>。將<hex:022811FF0A>EventItem<hex:F61E895F0103>交給瞭望陣營地的黑渦團補給兵，獲取食物。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSYL309_01285_SEQ_00,妖精暫留地的莫奇希亞想和冒險者談談他了解到的壞妖精們的企圖。
 1,TEXT_BANSYL309_01285_SEQ_01,接受了莫奇希亞的委託。對懸鉤群的3組<hex:02280CFF05>EObj<hex:F61E915E0103>使用<hex:022811FF0A>EventItem<hex:F61E89230103>。
 2,TEXT_BANSYL309_01285_SEQ_02,對<hex:02280CFF05>EObj<hex:F61E915E0103>使用<hex:022811FF0A>EventItem<hex:F61E89230103>，教訓了他們。向妖精暫留地的莫奇希亞報告。

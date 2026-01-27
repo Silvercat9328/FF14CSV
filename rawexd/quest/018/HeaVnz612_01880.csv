@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ612_01880_SEQ_00,飛龍港的瑪艾娜希望冒險者去調查一種未知的怪物。
 1,TEXT_HEAVNZ612_01880_SEQ_01,瑪艾娜在飛龍港的下層被一種未曾見過的怪物襲擊了。前往翻雲霧海飛龍港下層，討伐未知的怪物，並獲取怪物的一部分。
 2,TEXT_HEAVNZ612_01880_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F210C70103>，獲得了<hex:022811FF0A>EventItem<hex:F61E8B140103>。將<hex:022811FF0A>EventItem<hex:F61E8B140103>交給飛龍港的瑪艾娜。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANKOB107_01331_SEQ_00,第789洞穴團採礦地的第789團清潔工博茲，想去找別的洞穴團麻煩。
 1,TEXT_BANKOB107_01331_SEQ_01,得知第639洞穴團將使用新型挖掘機以提高開採量，第789團清潔工博茲十分心急。為了拖第639洞穴團的後腿，去第789洞穴團採礦地找第789團輔祭巴戈，向他討教破壞<hex:02280CFF05>EObj<hex:F61E935A0103>的方法。
 2,TEXT_BANKOB107_01331_SEQ_02,第789團輔祭巴戈告訴冒險者，可以用<hex:022811FF0A>EventItem<hex:F61E896D0103>破壞<hex:02280CFF05>EObj<hex:F61E935A0103>。首先將<hex:022811FF0A>EventItem<hex:F61E896C0103>設定在地靈軍試掘地的<hex:02280CFF05>EObj<hex:F61E935A0103>上。

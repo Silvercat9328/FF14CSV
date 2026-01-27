@@ -1,7 +1,7 @@
 ﻿key,0
 #,Name
 offset,0
-int32,str
+Int32,String
 0,酷炫時尚
 1,老練大廚
 2,戶外裝束

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSYL303_01279_SEQ_00,妖精暫留地的莫奇希亞有事情想要委託給冒險者。
 1,TEXT_BANSYL303_01279_SEQ_01,接受了莫奇希亞的委託。討伐懸鉤群南邊的<hex:02280DFF09>BNpcName<hex:A40103>，獲取3個<hex:022811FF0A>EventItem<hex:F61E89100103>。
 2,TEXT_BANSYL303_01279_SEQ_02,成功討伐了<hex:02280DFF09>BNpcName<hex:A40103>，獲得了<hex:022811FF0A>EventItem<hex:F61E89100103>。在搖籃樹和懸鉤群附近，從<hex:02280CFF05>EObj<hex:F61E90A10103>中獲取3杯<hex:022811FF0A>EventItem<hex:F61E89110103>。

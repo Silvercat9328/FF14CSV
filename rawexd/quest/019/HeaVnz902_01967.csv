@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ902_01967_SEQ_00,瑪托雅的洞穴的一根筋掃把正在唰唰唰唰地打掃衛生。
 1,TEXT_HEAVNZ902_01967_SEQ_01,冒險者需要實現一根筋掃把的願望來作為獲取知識的交換條件。一根筋掃把正在尋找乙太之旅的路標。在龍堡內陸低地尋找類似的東西。
 2,TEXT_HEAVNZ902_01967_SEQ_02,從<hex:02280CFF05>EObj<hex:F61E9C300103>上獲得了<hex:022811FF0A>EventItem<hex:F61E8B670103>。將<hex:022811FF0A>EventItem<hex:F61E8B670103>交給瑪托雅的洞穴的一根筋掃把。

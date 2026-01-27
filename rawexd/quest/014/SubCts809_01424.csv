@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_SUBCTS809_01424_SEQ_00,黃昏灣的貿易商塔塔芙看上去很煩惱。
 1,TEXT_SUBCTS809_01424_SEQ_01,塔塔芙委託冒險者，代替因暈船而倒下的運貨人搬運貨物。前往西薩納蘭的月牙灣，將<hex:022811FF0A>EventItem<hex:F61E89580103>和<hex:022811FF0A>EventItem<hex:F61E89590103>交給納納拉伊。
 2,TEXT_SUBCTS809_01424_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E89580103>和<hex:022811FF0A>EventItem<hex:F61E89590103>交給了納納拉伊。將<hex:022811FF0A>EventItem<hex:F61E895A0103>交給黃昏灣的塔塔芙。

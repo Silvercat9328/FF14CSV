@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ624_01892_SEQ_00,聖菲內雅連隊露營地的瑪吉特很在意艾蕾絲的去向。
 1,TEXT_HEAVNZ624_01892_SEQ_01,"艾蕾絲說自己帶上龍牙先回營地，但是仍然沒見她回來。決定和瑪吉特分兩路去尋找她的蹤影。在庫爾札斯西部高地紅沿的<hex:02280CFF05>EObj<hex:F61E9C030103>張望,如果出現敵人就將其討伐。"
 2,TEXT_HEAVNZ624_01892_SEQ_02,討伐了出現的<hex:02280FFF09>BNpcName<hex:F20FD70103>。再次在紅沿的<hex:02280CFF05>EObj<hex:F61E9CA50103>附近張望。

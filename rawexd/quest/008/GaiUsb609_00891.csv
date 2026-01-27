@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB609_00891_SEQ_00,阿德內爾占星臺的商人迪維庫魯瓦有重要的事情想要委託給冒險者。
 1,TEXT_GAIUSB609_00891_SEQ_01,迪維庫魯瓦的夥伴們遭到神秘魔物的襲擊而喪命。在阿德內爾占星臺西南的<hex:02280CFF05>EObj<hex:F61E8CC00103>等待並打倒出現的魔物。
 2,TEXT_GAIUSB609_00891_SEQ_02,凶暴魔物原來是<hex:02280FFF09>BNpcName<hex:F207D30103>。返回阿德內爾占星臺，將已為他同伴報仇的消息向迪維庫魯瓦報告。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH304_01403_SEQ_00,諾布養育場的塞烏有事情想要委託給冒險者。
 1,TEXT_BANSAH304_01403_SEQ_01,塞烏委託冒險者去燒掉珊瑚尖槍掠奪來的物資，阻礙他們的活動。前往薩普沙產卵地的隱秘港，用<hex:022811FF0A>EventItem<hex:F61E89760103>燒掉4堆<hex:02280CFF05>EObj<hex:F61E93900103>，並討伐發起襲擊的<hex:02280FFF09>BNpcName<hex:F20A780103>和<hex:02280FFF09>BNpcName<hex:F20A790103>。
 2,TEXT_BANSAH304_01403_SEQ_02,燒掉了<hex:02280CFF05>EObj<hex:F61E93900103>，並討伐了發起攻擊的珊瑚尖槍一夥。向諾布養育場的塞烏報告。

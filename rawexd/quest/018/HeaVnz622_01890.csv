@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ622_01890_SEQ_00,聖菲內雅連隊露營地的瑪吉特還有事情想委託給冒險者。
 1,TEXT_HEAVNZ622_01890_SEQ_01,瑪吉特拜託冒險者收集被龍族所殺的戰士們的遺物。討伐庫爾札斯西部高地紅沿的<hex:02280FFF09>BNpcName<hex:F20DA20103>，獲得5個<hex:022811FF0A>EventItem<hex:F61E8B550103>。
 2,TEXT_HEAVNZ622_01890_SEQ_02,打倒了<hex:02280FFF09>BNpcName<hex:F20DA20103>，獲得了5個<hex:022811FF0A>EventItem<hex:F61E8B550103>。將<hex:022811FF0A>EventItem<hex:F61E8B550103>交給庫爾札斯西部高地隼巢的艾蕾絲。

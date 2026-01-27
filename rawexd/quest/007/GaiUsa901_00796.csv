@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA901_00796_SEQ_00,浮栓亭的艾爾溫又有事情想要拜託冒險者。
 1,TEXT_GAIUSA901_00796_SEQ_01,將<hex:022811FF0A>EventItem<hex:F61E86F20103>交給山人岩穴附近的開山工拉菲恩·佛尤里、阿德馬爾和瓦瓦璞。
 2,TEXT_GAIUSA901_00796_SEQ_02,開山工們都很高興。向浮栓亭的艾爾溫報告。

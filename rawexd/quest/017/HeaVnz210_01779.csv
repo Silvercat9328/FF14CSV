@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ210_01779_SEQ_00,尾羽集落的馬塞尚非常關心這裡的樹木。
 1,TEXT_HEAVNZ210_01779_SEQ_01,馬塞尚拜託冒險者去驅除<hex:02280FFF09>BNpcName<hex:F20FCE0103>。對龍堡參天高地陸行鳥之森的<hex:02280CFF05>EObj<hex:F61E9A630103>使用<hex:022811FF0A>EventItem<hex:F61E8AC90103>，討伐3隻被吸引來的<hex:02280FFF09>BNpcName<hex:F20FCE0103>。
 2,TEXT_HEAVNZ210_01779_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F20FCE0103>。向尾羽集落的馬塞尚報告。

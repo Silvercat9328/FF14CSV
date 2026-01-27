@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANAMA210_01241_SEQ_00,灰陣營的納爾基·冬想要見證冒險者的力量。
 1,TEXT_BANAMA210_01241_SEQ_01,接受了納爾基·冬的委託。破壞贊拉克周圍的2座<hex:02280FFF09>BNpcName<hex:F207550103>。
 2,TEXT_BANAMA210_01241_SEQ_02,破壞了<hex:02280FFF09>BNpcName<hex:F207550103>。向灰陣營的納爾基·冬報告。

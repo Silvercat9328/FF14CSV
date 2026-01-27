@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ628_01896_SEQ_00,聖菲內雅連隊露營地的呂西艾有事要拜託冒險者。
 1,TEXT_HEAVNZ628_01896_SEQ_01,據呂西艾所說，有魔物擋住了配送食物的酒保商人。在庫爾札斯西部高地的鐵杉村討伐3隻<hex:02280FFF09>BNpcName<hex:F20DA10103>。
 2,TEXT_HEAVNZ628_01896_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20DA10103>。向聖菲內雅連隊露營地的呂西艾報告。

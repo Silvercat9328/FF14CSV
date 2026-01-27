@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_JOBNIN451_00233_SEQ_00,朧想盡快向冒險者解說新印的用法。
 1,TEXT_JOBNIN451_00233_SEQ_01,朧講解了人之印的用法。迅速趕往東拉諾西亞的碼頭小屋，和朧對話。
 2,TEXT_JOBNIN451_00233_SEQ_02,小屋附近殘留著爭鬥的痕跡。燕應該還在附近。尋找燕。

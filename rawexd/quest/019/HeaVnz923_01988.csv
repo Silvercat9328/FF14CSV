@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ923_01988_SEQ_00,伽馬管區的監查系統安靜地佇立著。
 1,TEXT_HEAVNZ923_01988_SEQ_01,為了調查未登記物資，監查系統委託冒險者回收5個<hex:022811FF0A>EventItem<hex:F61E8B2F0103>。在阿濟茲拉的帝國索魯斯堡回收5個<hex:022811FF0A>EventItem<hex:F61E8B2F0103>。
 2,TEXT_HEAVNZ923_01988_SEQ_02,回收了<hex:022811FF0A>EventItem<hex:F61E8B2F0103>。將<hex:022811FF0A>EventItem<hex:F61E8B2F0103>交給伽馬管區的監查系統。

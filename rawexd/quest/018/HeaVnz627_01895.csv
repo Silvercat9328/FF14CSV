@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ627_01895_SEQ_00,聖菲內雅連隊露營地的讓泰洛想到了一記妙案。
 1,TEXT_HEAVNZ627_01895_SEQ_01,接受了讓泰洛的請求。打倒4隻在庫爾札斯西部高地板岩連峰附近遊蕩的<hex:02280FFF09>BNpcName<hex:F20DA50103>。
 2,TEXT_HEAVNZ627_01895_SEQ_02,打倒了<hex:02280FFF09>BNpcName<hex:F20DA50103>，向聖菲內雅連隊露營地的讓泰洛報告。

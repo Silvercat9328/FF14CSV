@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB402_00858_SEQ_00,石綠湖營地的布拉烏吉巴爾，有東西想要冒險者代為傳遞。
 1,TEXT_GAIUSB402_00858_SEQ_01,布拉烏吉巴爾想將<hex:022811FF0A>EventItem<hex:F61E87190103>送給瞭望陣營地的布魯艾丁。使用吉吉盧恩交易站的渡船，從湖的對岸北上，前往拉諾西亞外地。
 2,TEXT_GAIUSB402_00858_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E87190103>交給了布魯艾丁。布魯艾丁雖然嘴上把布拉烏吉巴爾稱作懦夫，但心裡還是很掛念他的。

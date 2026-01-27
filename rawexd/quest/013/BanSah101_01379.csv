@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH101_01379_SEQ_00,諾布養育場的菲烏想要冒險者去打倒敵人。
 1,TEXT_BANSAH101_01379_SEQ_01,接受了菲烏的委託，去對抗協助珊瑚尖槍的戰略家<hex:02280FFF09>BNpcName<hex:F205EE0103>。參加薩普沙產卵地的危命任務「冷靜的戰略家——蒼鯊肌伏爾」，通過獲得貢獻度，獲取<hex:02280BFF05>Item<hex:F21E760103>。將<hex:02280BFF05>Item<hex:F21E760103>交給諾布養育場的菲烏。
 2,TEXT_BANSAH101_01379_SEQ_02,將<hex:02280BFF05>Item<hex:F21E760103>交給了菲烏。菲烏對冒險者的表現大加讚賞。今後也和危險的魚人族交戰，獲取諾布一夥的信任。

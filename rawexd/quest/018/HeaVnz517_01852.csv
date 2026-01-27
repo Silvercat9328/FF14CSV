@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ517_01852_SEQ_00,豎骨島的莫古可恩在觀察附近的情況。
 1,TEXT_HEAVNZ517_01852_SEQ_01,莫古可恩的目標是討伐<hex:02280FFF09>BNpcName<hex:F20E260103>。從豎骨島的<hex:02280FFF09>BNpcName<hex:F20E260103>身上取得3個<hex:022811FF0A>EventItem<hex:F61E8AF00103>。
 2,TEXT_HEAVNZ517_01852_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AF00103>。向豎骨島的莫古可恩報告。

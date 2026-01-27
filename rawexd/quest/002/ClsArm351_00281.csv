@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_CLSARM351_00281_SEQ_00,鑄甲匠公會的赫·納恩薩，有工作想要委託給冒險者。
 1,TEXT_CLSARM351_00281_SEQ_01,接受了赫·納恩薩的委託。製作一口<hex:022813FF07>ItemHQ<hex:FF08>　2502<hex:0103>，讓鑄甲匠公會的赫·納恩薩查看。
 2,TEXT_CLSARM351_00281_SEQ_02,讓赫·納恩薩查看了<hex:022813FF07>ItemHQ<hex:FF08>　2502<hex:0103>。前往利姆薩·羅敏薩的烹調師公會，將<hex:022813FF07>ItemHQ<hex:FF08>　2502<hex:0103>交給林格薩斯。

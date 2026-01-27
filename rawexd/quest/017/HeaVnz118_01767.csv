@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ118_01767_SEQ_00,聖菲內雅連隊露營地的讓泰洛的傷口很疼。
 1,TEXT_HEAVNZ118_01767_SEQ_01,讓泰洛交給冒險者一個<hex:022811FF0A>EventItem<hex:F61E8AC30103>。前往庫爾札斯西部高地的龍涎，在當地的溫泉獲取<hex:02280CFF05>EObj<hex:F61E9A570103>。
 2,TEXT_HEAVNZ118_01767_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E8AC30103>裝滿了<hex:022811FF0A>EventItem<hex:F61E8AC40103>。將<hex:022811FF0A>EventItem<hex:F61E8AC40103>帶回去交給聖菲內雅連隊露營地的讓泰洛。

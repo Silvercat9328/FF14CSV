@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ804_01934_SEQ_00,沙利亞克河的費爾茨默克斯無精打采地望著河流。
 1,TEXT_HEAVNZ804_01934_SEQ_01,費爾茨默克斯還是沒有釣到任何魚。為了讓費爾茨默克斯能釣到魚，在龍堡內陸低地的薩雷安精製區討伐5隻<hex:02280FFF09>BNpcName<hex:F20E0A0103>。
 2,TEXT_HEAVNZ804_01934_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20E0A0103>。向沙利亞克河的費爾茨默克斯報告。

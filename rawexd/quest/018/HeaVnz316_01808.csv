@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ316_01808_SEQ_00,自由腦窟穴的跑得快神情凝重地盯著地面。
 1,TEXT_HEAVNZ316_01808_SEQ_01,跑得快委託冒險者去燒毀<hex:02280CFF05>EObj<hex:F61E9AA30103>。前往龍堡參天高地的荒煙野地，用<hex:022811FF0A>EventItem<hex:F61E8ADC0103>燒毀3個<hex:02280CFF05>EObj<hex:F61E9AA30103>。
 2,TEXT_HEAVNZ316_01808_SEQ_02,燒毀了<hex:02280CFF05>EObj<hex:F61E9AA30103>。向自由腦窟穴的跑得快報告。

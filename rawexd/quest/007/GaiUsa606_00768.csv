@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA606_00768_SEQ_00,石場水車的迪德拉，有件簡單的工作想委託給冒險者。
 1,TEXT_GAIUSA606_00768_SEQ_01,從迪德拉處接受了幫忙收穫石場水車北面的果樹園的委託。和果樹園的農夫佛克斯交談。
 2,TEXT_GAIUSA606_00768_SEQ_02,佛克斯希望冒險者幫忙收穫<hex:022811FF0A>EventItem<hex:F61E86E00103>。驅除出現的害蟲，收穫6個<hex:022811FF0A>EventItem<hex:F61E86E00103>。

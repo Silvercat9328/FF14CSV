@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ014_01739_SEQ_00,玫瑰園的薔薇騎兵團的隨軍烹調師很辛苦地望著便當。
 1,TEXT_HEAVNZ014_01739_SEQ_01,薔薇騎兵團的隨軍烹調師拜託冒險者去送便當。獲取玫瑰園的<hex:022811FF0A>EventItem<hex:F61E8ABE0103>。
 2,TEXT_HEAVNZ014_01739_SEQ_02,收取了<hex:022811FF0A>EventItem<hex:F61E8ABE0103>。將<hex:022811FF0A>EventItem<hex:F61E8ABE0103>分發給玫瑰園的騎兵們。

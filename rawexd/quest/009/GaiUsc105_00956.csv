@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC105_00956_SEQ_00,實習乙太學者哈哈薩克有事想要委託給冒險者，以此作為他幫忙的回報。
 1,TEXT_GAIUSC105_00956_SEQ_01,冒險者所尋求的高純度偏屬性水晶，只有在火牆最深處才能採集到。紫紅瀑布位於跨天橋的東面，穿過瀑布的洞窟，在<hex:02280CFF05>EObj<hex:F61E8D970103>處使用<hex:022811FF0A>EventItem<hex:F61E87660103>。
 2,TEXT_GAIUSC105_00956_SEQ_02,使用<hex:022811FF0A>EventItem<hex:F61E87660103>將<hex:02280CFF05>EObj<hex:F61E8E450103>刨出來。對<hex:02280CFF05>EObj<hex:F61E8E450103>使用<hex:022811FF0A>EventItem<hex:F61E87C50103>，獲得<hex:022811FF0A>EventItem<hex:F61E87C60103>。

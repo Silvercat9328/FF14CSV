@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ112_01761_SEQ_00,聖菲內雅連隊露營地的讓泰洛準備開始進行龍族眷屬的狩獵了。
 1,TEXT_HEAVNZ112_01761_SEQ_01,讓泰洛讓冒險者去試著打倒龍族的眷屬。前往庫爾札斯西部高地的雙子池，討伐3隻<hex:02280FFF09>BNpcName<hex:F20D990103>。
 2,TEXT_HEAVNZ112_01761_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F20D990103>。向聖菲內雅連隊露營地的讓泰洛報告。

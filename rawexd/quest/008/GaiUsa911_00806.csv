@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA911_00806_SEQ_00,鄧斯坦哨塔的奧布里奧非常疲憊。
 1,TEXT_GAIUSA911_00806_SEQ_01,代替奧布里奧進行水質調查。在萌芽池獲取<hex:022811FF0A>EventItem<hex:F61E86FA0103>。
 2,TEXT_GAIUSA911_00806_SEQ_02,返回鄧斯坦哨塔，將<hex:022811FF0A>EventItem<hex:F61E86FA0103>交給奧布里奧。

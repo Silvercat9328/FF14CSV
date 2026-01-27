@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSD015_01198_SEQ_00,於里昂熱想要教給冒險者獲得更強力量的方法。
 1,TEXT_GAIUSD015_01198_SEQ_01,為了獲得更加強大的力量，於里昂熱要求冒險者去見某位商人。讓喪靈鐘的羅薇娜查看於里昂熱託付的<hex:022811FF0A>EventItem<hex:F61E88F60103>、<hex:022811FF0A>EventItem<hex:F61E88F70103>、<hex:022811FF0A>EventItem<hex:F61E88F80103>。
 2,TEXT_GAIUSD015_01198_SEQ_02,羅薇娜在看過這3種蠻神祭器後，判斷這些可以以高價賣出，所以答應進行收購。將<hex:022811FF0A>EventItem<hex:F61E88F60103>、<hex:022811FF0A>EventItem<hex:F61E88F70103>、<hex:022811FF0A>EventItem<hex:F61E88F80103>交給拉萊娜。

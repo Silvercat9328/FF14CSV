@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_SUBCTS807_01422_SEQ_00,喪靈鐘的維斯卡德察覺到了冒險者的一些事情。
 1,TEXT_SUBCTS807_01422_SEQ_01,如果完成維斯卡德的委託，他就會傳授幻象棱晶的製作方法。將<hex:022811FF0A>EventItem<hex:F61E89570103>交給喪靈鐘的羅薇娜。
 2,TEXT_SUBCTS807_01422_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E89570103>交給了羅薇娜。向喪靈鐘的維斯卡德報告。

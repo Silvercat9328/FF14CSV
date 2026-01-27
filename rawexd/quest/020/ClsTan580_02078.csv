@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_CLSTAN580_02078_SEQ_00,寶杖大街的艾爾德想要把生意做大。
 1,TEXT_CLSTAN580_02078_SEQ_01,艾爾德委託冒險者將會費交給商人公會。她還想要一封寫給貴族的介紹信。將<hex:022811FF0A>EventItem<hex:F61E8BD80103>交給寶杖大街的艾蕾茲。
 2,TEXT_CLSTAN580_02078_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E8BD80103>交給了艾蕾茲。介紹信要向格哈特索取。和寶杖大街的格哈特談談。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ636_01904_SEQ_00,玫瑰園的吉爾登感到非常困擾。
 1,TEXT_HEAVNZ636_01904_SEQ_01,吉爾登委託冒險者前去討伐<hex:02280FFF09>BNpcName<hex:F20DB10103>。在阿巴拉提亞雲海的危步臺討伐4隻<hex:02280FFF09>BNpcName<hex:F20DB10103>。
 2,TEXT_HEAVNZ636_01904_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20DB10103>。向玫瑰園的吉爾登報告。

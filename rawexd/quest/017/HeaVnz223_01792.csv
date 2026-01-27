@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ223_01792_SEQ_00,自由腦窟穴的講故事正在煩惱。
 1,TEXT_HEAVNZ223_01792_SEQ_01,講故事拜託冒險者收集<hex:022811FF0A>EventItem<hex:F61E8AD00103>。前往龍堡參天高地的荒煙野地，取得3束<hex:02280CFF05>EObj<hex:F61E9A730103>。
 2,TEXT_HEAVNZ223_01792_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AD00103>。將<hex:022811FF0A>EventItem<hex:F61E8AD00103>交給自由腦窟穴的講故事。

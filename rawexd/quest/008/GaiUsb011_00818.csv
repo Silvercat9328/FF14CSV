@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB011_00818_SEQ_00,恬靜路營地的園藝工弗洛朗好像掉了一些東西。
 1,TEXT_GAIUSB011_00818_SEQ_01,在恬靜路營地南面的橋下收集<hex:022810FF0A>EventItem<hex:F51E870103>。
 2,TEXT_GAIUSB011_00818_SEQ_02,收集了所有的<hex:022810FF0A>EventItem<hex:F51E870103>。將其交給恬靜路營地的弗洛朗。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ724_01928_SEQ_00,尾羽集落的馬塞尚一臉後悔地皺著眉頭。
 1,TEXT_HEAVNZ724_01928_SEQ_01,馬塞尚想要打倒那隻搶走他獵物的熊。前往龍堡參天高地的陸行鳥之森，將<hex:022811FF0A>EventItem<hex:F61E8B0A0103>放置在<hex:02280CFF05>EObj<hex:F61E9B490103>。
 2,TEXT_HEAVNZ724_01928_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E8B0A0103>放在了<hex:02280CFF05>EObj<hex:F61E9B490103>。在陸行鳥之森的<hex:02280CFF05>EObj<hex:F61E9B4A0103>等待，討伐出現的<hex:02280FFF09>BNpcName<hex:F20FE40103>。

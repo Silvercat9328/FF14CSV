@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ629_01897_SEQ_00,聖菲內雅連隊露營地的皮埃里凱似乎在計劃著什麼。
 1,TEXT_HEAVNZ629_01897_SEQ_01,皮埃里凱拜託冒險者帶回來3個<hex:022811FF0A>EventItem<hex:F61E8AF60103>。在庫爾札斯西部高地的紅沿打倒<hex:02280FFF09>BNpcName<hex:F20DA40103>獲取3個<hex:022811FF0A>EventItem<hex:F61E8AF60103>。
 2,TEXT_HEAVNZ629_01897_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AF60103>。將<hex:022811FF0A>EventItem<hex:F61E8AF60103>交給聖菲內雅連隊露營地的皮埃里凱。

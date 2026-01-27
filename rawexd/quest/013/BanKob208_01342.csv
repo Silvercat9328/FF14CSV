@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANKOB208_01342_SEQ_00,第789洞穴團採礦地的第789團工匠博古，想要給別人搗亂。
 1,TEXT_BANKOB208_01342_SEQ_01,接受了第789團工匠博古的委託，奪來第13團指導者佐加的手下藏起來的「好東西」。從第13洞穴團煉金工房的<hex:02280CFF05>EObj<hex:F61E93110103>中獲取<hex:022811FF0A>EventItem<hex:F61E895B0103>。黑金湖的第13團煉金術士加吉會帶領冒險者前往第13洞穴團煉金工房。
 2,TEXT_BANKOB208_01342_SEQ_02,從<hex:02280CFF05>EObj<hex:F61E93110103>中獲得了<hex:022811FF0A>EventItem<hex:F61E895B0103>。將<hex:022811FF0A>EventItem<hex:F61E895B0103>交給第789洞穴團採礦地的第789團工匠博古。

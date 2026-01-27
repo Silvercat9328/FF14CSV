@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_SUBCTS821_01560_SEQ_00,彎枝牧場的飼養員呂凱洛有事要告訴冒險者。
 1,TEXT_SUBCTS821_01560_SEQ_01,呂凱洛要告訴冒險者飼養專屬陸行鳥的秘訣。打掃鳥房是基礎中的基礎。首先在彎枝牧場的鳥房附近，撿起5堆<hex:02280CFF05>EObj<hex:F61E95D00103>。
 2,TEXT_SUBCTS821_01560_SEQ_02,撿完了鳥房附近的<hex:02280CFF05>EObj<hex:F61E95D00103>。向彎枝牧場的呂凱洛報告。

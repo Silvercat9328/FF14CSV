@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_KINGMJ102_05427_SEQ_00,滿潮港的可露兒想和大家討論今後的行動方向。
 1,TEXT_KINGMJ102_05427_SEQ_01,
 2,TEXT_KINGMJ102_05427_SEQ_02,

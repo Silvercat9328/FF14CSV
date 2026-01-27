@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ417_01835_SEQ_00,休島園東張西望的莫古利按著肚子搖搖晃晃地飛著。
 1,TEXT_HEAVNZ417_01835_SEQ_01,和東張西望的莫古利進行了交談。在休島園周邊討伐4隻<hex:02280FFF09>BNpcName<hex:F20E1F0103>。
 2,TEXT_HEAVNZ417_01835_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20E1F0103>。向休島園東張西望的莫古利報告。

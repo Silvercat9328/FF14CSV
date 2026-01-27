@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ921_01986_SEQ_00,第五傳送環的排除系統安靜地佇立著。
 1,TEXT_HEAVNZ921_01986_SEQ_01,排除系統下達了排除入侵者的指示。入侵者恐怕就是帝國兵。在阿濟茲拉的飛空戰艦裝卸點討伐<hex:02280FFF09>BNpcName<hex:F20DDA0103>、<hex:02280FFF09>BNpcName<hex:F20DDB0103>、<hex:02280FFF09>BNpcName<hex:F20DDC0103>、<hex:02280FFF09>BNpcName<hex:F20DDD0103>、<hex:02280FFF09>BNpcName<hex:F20DDE0103>任意8名。
 2,TEXT_HEAVNZ921_01986_SEQ_02,成功討伐了帝國兵。向第五傳送環的排除系統報告。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA408_00750_SEQ_00,跨天橋的遺跡調查員格格修，想要委託冒險者討伐魔物。
 1,TEXT_GAIUSA408_00750_SEQ_01,調查團遭到了<hex:02280FFF09>BNpcName<hex:F2012D0103>的襲擊，十分苦惱。討伐4隻跨天橋附近的<hex:02280FFF09>BNpcName<hex:F2012D0103>。
 2,TEXT_GAIUSA408_00750_SEQ_02,成功討伐了4隻<hex:02280FFF09>BNpcName<hex:F2012D0103>。向跨天橋的遺跡調查員格格修報告。

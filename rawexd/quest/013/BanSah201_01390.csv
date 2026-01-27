@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH201_01390_SEQ_00,諾布養育場的荷烏掌握到了麻煩的情報。
 1,TEXT_BANSAH201_01390_SEQ_01,荷烏委託冒險者去討伐珊瑚尖槍找來的咒法師。在薩普沙產卵地討伐3名<hex:02280FFF09>BNpcName<hex:F209DE0103>。
 2,TEXT_BANSAH201_01390_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F209DE0103>。向諾布養育場的荷烏報告。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB806_00915_SEQ_00,巨龍首營地的梅朵爾想要委託冒險者去討伐某種魔物。
 1,TEXT_GAIUSB806_00915_SEQ_01,梅朵爾的兒子在魔胃洞迷路而身亡。為了復仇，對<hex:02280CFF05>EObj<hex:F61E8CE70103>使用<hex:022811FF0A>EventItem<hex:F61E87DC0103>，討伐被吸引來的<hex:02280FFF09>BNpcName<hex:F207D90103>。
 2,TEXT_GAIUSB806_00915_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F207D90103>，獲得了<hex:022811FF0A>EventItem<hex:F61E874E0103>。將其交給巨龍首營地的梅朵爾。

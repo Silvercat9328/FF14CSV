@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ524_01859_SEQ_00,豎骨島的一絲不苟的莫古利在唉聲嘆氣。
 1,TEXT_HEAVNZ524_01859_SEQ_01,一絲不苟的莫古利委託冒險者採來<hex:022811FF0A>EventItem<hex:F61E8AF20103>。在豎骨島取得3個<hex:022811FF0A>EventItem<hex:F61E8AF20103>。
 2,TEXT_HEAVNZ524_01859_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AF20103>。將<hex:022811FF0A>EventItem<hex:F61E8AF20103>交給豎骨島一絲不苟的莫古利。

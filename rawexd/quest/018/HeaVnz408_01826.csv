@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ408_01826_SEQ_00,贖罪天廊的莫古沐沐非常生氣。
 1,TEXT_HEAVNZ408_01826_SEQ_01,莫古沐沐委託冒險者驅逐踐踏花田的魔物。在翻雲霧海的四臂廣場討伐3隻<hex:02280FFF09>BNpcName<hex:F20E230103>。
 2,TEXT_HEAVNZ408_01826_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20E230103>。向贖罪天廊的莫古沐沐報告。

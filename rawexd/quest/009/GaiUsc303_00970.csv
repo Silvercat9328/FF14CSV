@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC303_00970_SEQ_00,妖精暫留地的熱勒蘭，有事想要委託給冒險者。
 1,TEXT_GAIUSC303_00970_SEQ_01,熱勒蘭不擅長與妖精族進行交流。代替他將<hex:022811FF0A>EventItem<hex:F61E876D0103>交給妖精暫留地的德蕾希亞。
 2,TEXT_GAIUSC303_00970_SEQ_02,從妖精族口中打聽到了採集地點。前往百靈啼，收集<hex:022811FF0A>EventItem<hex:F61E876E0103>。

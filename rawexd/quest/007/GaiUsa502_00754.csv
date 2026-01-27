@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA502_00754_SEQ_00,札爾神祠的祭司巧巧佐，想要委託冒險者討伐魔物。
 1,TEXT_GAIUSA502_00754_SEQ_01,因懼怕附近的魔物，朝聖者的數量減少了。討伐4隻札爾神祠附近的<hex:02280FFF09>BNpcName<hex:F201190103>。
 2,TEXT_GAIUSA502_00754_SEQ_02,成功討伐了4隻<hex:02280FFF09>BNpcName<hex:F201190103>。向札爾神祠的祭司巧巧佐報告。

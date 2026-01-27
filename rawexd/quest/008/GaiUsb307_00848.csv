@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB307_00848_SEQ_00,斷弦亭的德雷斯特，有事想要委託給冒險者。
 1,TEXT_GAIUSB307_00848_SEQ_01,德雷斯特想向掛念著自己的夏馬尼·洛馬尼表達謝意。前往斷弦亭北方的紅螳螂瀑布，獲得3個<hex:022811FF0A>EventItem<hex:F61E87110103>。
 2,TEXT_GAIUSB307_00848_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E87110103>。將其交給葡萄酒港的夏馬尼·洛馬尼。

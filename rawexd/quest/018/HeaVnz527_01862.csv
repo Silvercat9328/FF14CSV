@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ527_01862_SEQ_00,書信之家抽泣不止的莫古利非常傷心。
 1,TEXT_HEAVNZ527_01862_SEQ_01,抽泣不止的莫古利委託冒險者取回<hex:022811FF0A>EventItem<hex:F61E8AF50103>。討伐書信之家的<hex:02280FFF09>BNpcName<hex:F20E2A0103>。
 2,TEXT_HEAVNZ527_01862_SEQ_02,沒發現<hex:022811FF0A>EventItem<hex:F61E8AF50103>。為了取回<hex:022811FF0A>EventItem<hex:F61E8AF50103>，繼續討伐<hex:02280FFF09>BNpcName<hex:F20E2A0103>。

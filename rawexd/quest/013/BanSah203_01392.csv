@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH203_01392_SEQ_00,諾布養育場的荷烏有事情告訴冒險者。
 1,TEXT_BANSAH203_01392_SEQ_01,荷烏委託冒險者去打倒給珊瑚尖槍帶路的海蛇之舌領航員。在薩普沙產卵地入口附近的<hex:02280CFF05>EObj<hex:F61E93340103>等待，打倒3名<hex:02280FFF09>BNpcName<hex:F20AA80103>或<hex:02280FFF09>BNpcName<hex:F20AA90103>。
 2,TEXT_BANSAH203_01392_SEQ_02,打倒了海蛇之舌領航員。向諾布養育場的荷烏報告。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB312_00853_SEQ_00,太陽海岸的管家佩·艾巴羅，有東西想要冒險者去收拾一下。
 1,TEXT_GAIUSB312_00853_SEQ_01,有人在海岸的盡頭看到了可怕的魚。前往太陽海岸邊，討伐3隻聚集在利螯陸蟹的空殼邊的怪魚。
 2,TEXT_GAIUSB312_00853_SEQ_02,怪魚其實是<hex:02280FFF09>BNpcName<hex:F202820103>。清除引來怪魚的利螯陸蟹的空殼。

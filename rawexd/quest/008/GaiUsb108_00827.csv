@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB108_00827_SEQ_00,工藝神擊的採礦工穆穆戈伊，想委託給難得一見的冒險者一份工作。
 1,TEXT_GAIUSB108_00827_SEQ_01,用於採礦的器材捲入了沙塵壞掉了。清除3處<hex:02280CFF05>EObj<hex:F61E8C7F0103>。
 2,TEXT_GAIUSB108_00827_SEQ_02,清除了所有的<hex:02280CFF05>EObj<hex:F61E8C7F0103>。向工藝神擊的穆穆戈伊報告。

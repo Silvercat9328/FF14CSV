@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ516_01851_SEQ_00,祈願林的莫古茲恩在觀察附近的情況。
 1,TEXT_HEAVNZ516_01851_SEQ_01,莫古茲恩的目標是討伐<hex:02280FFF09>BNpcName<hex:F20E540103>。從祈願林的<hex:02280FFF09>BNpcName<hex:F20E540103>身上取得3個<hex:022811FF0A>EventItem<hex:F61E8AEF0103>。
 2,TEXT_HEAVNZ516_01851_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AEF0103>。向祈願林的莫古茲恩報告。

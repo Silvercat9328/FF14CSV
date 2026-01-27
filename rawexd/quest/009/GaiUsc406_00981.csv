@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC406_00981_SEQ_00,黃金谷的皮埃爾蒙，有重要的情報想提供給冒險者。
 1,TEXT_GAIUSC406_00981_SEQ_01,加雷馬帝國軍的士兵們之所以騷亂不止，是因為有人逃走了。在黃金谷也發現了2個陌生人停留的痕跡。調查<hex:02280CFF05>EObj<hex:F61E8D140103>，尋找下一處足跡。
 2,TEXT_GAIUSC406_00981_SEQ_02,找到了第2處<hex:02280CFF05>EObj<hex:F61E8D140103>。對其進行調查後，尋找下一處足跡。

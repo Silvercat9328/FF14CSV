@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA508_00760_SEQ_00,恆輝隊的安娜貝爾，有件特殊的工作想要委託給冒險者。
 1,TEXT_GAIUSA508_00760_SEQ_01,在小阿拉米格南方的遺跡中，似乎有貝拉哈迪亞時代的死靈出沒。對<hex:02280FFF09>BNpcName<hex:F207CE0103>和<hex:02280FFF09>BNpcName<hex:F207CF0103>使用從安娜貝爾處得到的<hex:022811FF0A>EventItem<hex:F61E86DE0103>，待其變弱後，分別打倒1名。
 2,TEXT_GAIUSA508_00760_SEQ_02,成功討伐了死靈們。向小阿拉米格的安娜貝爾報告。

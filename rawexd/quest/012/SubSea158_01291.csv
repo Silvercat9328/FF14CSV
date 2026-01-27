@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_SUBSEA158_01291_SEQ_00,小麥酒港的斯克里比爾德有事情想要委託給冒險者。
 1,TEXT_SUBSEA158_01291_SEQ_01,接受了斯克里比爾德的委託。在骷髏谷一帶尋找長鬚豹。
 2,TEXT_SUBSEA158_01291_SEQ_02,發現了長鬚豹。在骷髏谷一帶救助長鬚豹的幼崽。

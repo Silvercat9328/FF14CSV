@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_JOBNIN351_00215_SEQ_00,朧準備為冒險者講解新印的用法。
 1,TEXT_JOBNIN351_00215_SEQ_01,天之印後結地之印再發動忍術，即可用出雷遁之術。對碼頭小屋外的<hex:02280CFF05>EObj<hex:F61E97C00103>使用雷遁之術。
 2,TEXT_JOBNIN351_00215_SEQ_02,成功對<hex:02280CFF05>EObj<hex:F61E97C00103>使用了雷遁之術。向碼頭小屋前的朧報告。

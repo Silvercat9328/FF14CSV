@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH301_01400_SEQ_00,諾布養育場的塞烏有事情想要委託給冒險者。
 1,TEXT_BANSAH301_01400_SEQ_01,塞烏委託冒險者去薩普沙產卵地打倒珊瑚尖槍的3名幹部。討伐<hex:02280FFF09>BNpcName<hex:F207230103>後<hex:02280FFF09>BNpcName<hex:F20AAE0103>就會出現，討伐<hex:02280FFF09>BNpcName<hex:F207240103>後<hex:02280FFF09>BNpcName<hex:F20AAF0103>就會出現，討伐<hex:02280FFF09>BNpcName<hex:F207260103>後<hex:02280FFF09>BNpcName<hex:F20AB00103>就會出現，等他們出現後就將其討伐。
 2,TEXT_BANSAH301_01400_SEQ_02,成功討伐了珊瑚尖槍的幹部們。向諾布養育場的塞烏報告。

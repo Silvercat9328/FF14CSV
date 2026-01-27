@@ -1,7 +1,7 @@
 ﻿key,0,43,44
 #,ShortCode,Name,NameShort
 offset,52,0,4
-int32,str,str,str
+Int32,String,String,String
 0,,,
 1,f1r1_re,監獄廢墟托托·拉克千獄,
 2,f1d1_re,地下靈殿塔姆·塔拉墓園,

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANKOB002_01321_SEQ_00,第789洞穴團採礦地的第789團採集員基古有事情想委託給冒險者。
 1,TEXT_BANKOB002_01321_SEQ_01,據第789團採集員基古說，這個月第789洞穴團的開採量完全達不到標準要求。在拉諾西亞外地的地靈軍試掘地周邊獲取4個<hex:022811FF0A>EventItem<hex:F61E89510103>。
 2,TEXT_BANKOB002_01321_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E89510103>。將其交給第789洞穴團採礦地的第789團採集員基古。

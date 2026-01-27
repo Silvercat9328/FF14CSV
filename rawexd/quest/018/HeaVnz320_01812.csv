@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ320_01812_SEQ_00,不潔三塔的艾斯·卡斯直勾勾地盯著冒險者。
 1,TEXT_HEAVNZ320_01812_SEQ_01,看了冒險者與自己孩子們的戰鬥，艾斯·卡斯也熱血沸騰了起來。前往龍堡參天高地的阿瓦隆尼亞古陸，和科姆·庫爾談談，和<hex:02280FFF09>BNpcName<hex:F210B40103>對戰。
 2,TEXT_HEAVNZ320_01812_SEQ_02,戰勝了<hex:02280FFF09>BNpcName<hex:F210B40103>。和阿瓦隆尼亞古陸的科姆·庫爾談談。

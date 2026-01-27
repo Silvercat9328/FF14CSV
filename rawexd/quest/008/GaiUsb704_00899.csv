@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB704_00899_SEQ_00,巨龍首營地的科朗蒂奧有工作想要委託給冒險者。
 1,TEXT_GAIUSB704_00899_SEQ_01,科朗蒂奧出錢對<hex:02280FFF09>BNpcName<hex:F202930103>發起懸賞。討伐<hex:02280FFF09>BNpcName<hex:F202930103>，獲取4份<hex:022811FF0A>EventItem<hex:F61E873F0103>。
 2,TEXT_GAIUSB704_00899_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E873F0103>。將其交給巨龍首營地的科朗蒂奧。

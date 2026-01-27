@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ613_01881_SEQ_00,飛龍港的瑪艾娜有個地方想讓冒險者去。
 1,TEXT_HEAVNZ613_01881_SEQ_01,接受了瑪艾娜的委託。瑪艾娜想讓冒險者去支援一下前往東方眼目的偵察隊。前往翻雲霧海的東方眼目，和附近的東北偵察隊的龍騎士匯合。
 2,TEXT_HEAVNZ613_01881_SEQ_02,據東北偵察隊的龍騎士所說，他們被<hex:02280FFF09>BNpcName<hex:F20E2E0103>襲擊了。為了支援他們完成任務，在東方眼目討伐3隻<hex:02280FFF09>BNpcName<hex:F20E2E0103>。

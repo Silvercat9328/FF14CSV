@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_JOBMCH580_01710_SEQ_00,天鋼機工房的斯特凡尼維安有事想告訴冒險者。
 1,TEXT_JOBMCH580_01710_SEQ_01,為了洗清天鋼機工房的嫌疑，羅斯特恩斯塔爾說要為工房頂罪後離開了。和天鋼機工房的斯特凡尼維安談談。
 2,TEXT_JOBMCH580_01710_SEQ_02,和斯特凡尼維安進行了交談。調查阿巴拉提亞雲海瓦納溫杜集落的<hex:02280CFF05>EObj<hex:F61E9D020103>，取得<hex:022811FF0A>EventItem<hex:F61E8B9A0103>。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB212_00843_SEQ_00,葡萄酒港的夏馬尼·洛馬尼，有事想要委託給冒險者。
 1,TEXT_GAIUSB212_00843_SEQ_01,夏馬尼·洛馬尼所尋求的最棒的葡萄酒，是傳說中的<hex:022811FF0A>EventItem<hex:F61E87130103>。和葡萄酒港的釀酒師們交談，收集情報。
 2,TEXT_GAIUSB212_00843_SEQ_02,看來<hex:022811FF0A>EventItem<hex:F61E87130103>在第七靈災時盡數被毀……向葡萄酒港的夏馬尼·洛馬尼報告。

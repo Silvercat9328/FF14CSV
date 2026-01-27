@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA407_00749_SEQ_00,跨天橋的遺跡調查員克勞迪恩，想委託給冒險者一份工作。
 1,TEXT_GAIUSA407_00749_SEQ_01,為了進一步展開對遺跡的調查，需要將鳥轟走。在跨天橋的<hex:02280CFF05>EObj<hex:F61E8C280103>處設定<hex:022811FF0A>EventItem<hex:F61E86D70103>。
 2,TEXT_GAIUSA407_00749_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E86D70103>設定在了<hex:02280CFF05>EObj<hex:F61E8C280103>。向跨天橋的克勞迪恩報告。

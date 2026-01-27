@@ -1,7 +1,7 @@
 ﻿key,0
-#,
+#,Name
 offset,0
-int32,str
+Int32,String
 0,
 1,任務採集物
 2,任務水產品

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB003_00810_SEQ_00,風車管理人小屋的特拉哈涂姆好像還不肯認可冒險者。
 1,TEXT_GAIUSB003_00810_SEQ_01,特拉哈涂姆說只是討伐老鼠還不足以交換泰坦的情報，又給冒險者提了新的要求。依照他的指示，調查<hex:02280CFF05>EObj<hex:F61E8C720103>，打倒隨之出現的<hex:02280FFF09>BNpcName<hex:F207C20103>。
 2,TEXT_GAIUSB003_00810_SEQ_02,打倒了<hex:02280FFF09>BNpcName<hex:F207C20103>。向灰艦風車群管理人小屋的特拉哈涂姆報告。

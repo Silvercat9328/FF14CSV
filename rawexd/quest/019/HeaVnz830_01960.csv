@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ830_01960_SEQ_00,湍流三角地的費爾茨默克斯依舊在釣魚。
 1,TEXT_HEAVNZ830_01960_SEQ_01,和費爾茨默克斯進行了交談。費爾茨默克斯之所以釣不上魚，都是因為生息在附近的<hex:02280FFF09>BNpcName<hex:F20E160103>。在龍堡內陸低地的薩雷安治學區討伐<hex:02280FFF09>BNpcName<hex:F20E160103>，獲取4份<hex:022811FF0A>EventItem<hex:F61E8B220103>。
 2,TEXT_HEAVNZ830_01960_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8B220103>。將<hex:022811FF0A>EventItem<hex:F61E8B220103>交給湍流三角地的費爾茨默克斯。

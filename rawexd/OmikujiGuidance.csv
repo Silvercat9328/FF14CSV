@@ -1,7 +1,7 @@
 ﻿key,1,2
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,,
 100,冒險,信步而行 信馬由韁 長風破浪
 101,,天空海闊 無邊無涯 氣象一新

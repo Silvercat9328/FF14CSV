@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_BANSAH209_01398_SEQ_00,諾布養育場的荷烏有事情想要委託給冒險者。
 1,TEXT_BANSAH209_01398_SEQ_01,荷烏委託冒險者去討伐在月影島登陸的海蛇之舌的海盜。前往月影島，找出並討伐4名<hex:02280FFF09>BNpcName<hex:F20AAC0103>和<hex:02280FFF09>BNpcName<hex:F20AAD0103>。諾布養育場的海獸馴養人帕阿會為冒險者準備前往月影島的水龍蜥。
 2,TEXT_BANSAH209_01398_SEQ_02,討伐了海蛇之舌的海盜。向諾布養育場的荷烏報告。

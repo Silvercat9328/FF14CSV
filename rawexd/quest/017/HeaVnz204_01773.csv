@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ204_01773_SEQ_00,尾羽集落周邊營地的格納雷很在意叫個不停的陸行鳥。
 1,TEXT_HEAVNZ204_01773_SEQ_01,格納雷拜託冒險者去調查陸行鳥被捉住的地點有什麼情況。前往龍堡參天高地的陸行鳥之森，調查<hex:02280CFF05>EObj<hex:F61E9A5D0103>。
 2,TEXT_HEAVNZ204_01773_SEQ_02,<hex:02280CFF05>EObj<hex:F61E9A5D0103>中還留有陸行鳥的蛋。向尾羽集落周邊營地的格納雷報告。

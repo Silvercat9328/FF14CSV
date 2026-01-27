@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ526_01861_SEQ_00,飛龍港悶悶不樂的莫古利非常不滿。
 1,TEXT_HEAVNZ526_01861_SEQ_01,和悶悶不樂的莫古利進行了交談。悶悶不樂的莫古利在收集人類的武器、工具時被<hex:02280FFF09>BNpcName<hex:F20E280103>襲擊，收集來的東西也都被搶走了。在飛龍港討伐<hex:02280FFF09>BNpcName<hex:F20E280103>，獲取3個其身上可能會掉落的<hex:022811FF0A>EventItem<hex:F61E8AF40103>。
 2,TEXT_HEAVNZ526_01861_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8AF40103>。將<hex:022811FF0A>EventItem<hex:F61E8AF40103>交給飛龍港悶悶不樂的莫古利。

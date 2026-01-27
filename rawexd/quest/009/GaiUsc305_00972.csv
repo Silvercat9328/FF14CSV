@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSC305_00972_SEQ_00,十二神大聖堂的凱因，想要鼓動某位青年。
 1,TEXT_GAIUSC305_00972_SEQ_01,凱因發現某位青年正打算向心儀的對象表白。將<hex:022811FF0A>EventItem<hex:F61E87E10103>交給緊張的青年。
 2,TEXT_GAIUSC305_00972_SEQ_02,青年收下<hex:022811FF0A>EventItem<hex:F61E87E10103>並走開了。向十二神大聖堂的凱因報告。

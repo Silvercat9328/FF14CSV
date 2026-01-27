@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSB907_00930_SEQ_00,大審門的神殿騎士洛阿娜想要驅逐害鳥。
 1,TEXT_GAIUSB907_00930_SEQ_01,接受了驅逐棲息在大審門附近的魔物的委託。討伐5隻<hex:02280FFF09>BNpcName<hex:F2049F0103>。
 2,TEXT_GAIUSB907_00930_SEQ_02,成功討伐了<hex:02280FFF09>BNpcName<hex:F2049F0103>。向大審門的神殿騎士洛阿娜報告。

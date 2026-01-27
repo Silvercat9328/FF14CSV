@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_GAIUSA206_00729_SEQ_00,巴斯卡隆酒家的奧菲里奧，希望有人能幫他驅除大肆吞食河魚的魔物。
 1,TEXT_GAIUSA206_00729_SEQ_01,巴斯卡隆酒家做菜用的河魚，被魔物吃光了。前往巴斯卡隆酒家東邊的河流，打倒3條<hex:02280EFF09>BNpcName<hex:F0EA0103>。
 2,TEXT_GAIUSA206_00729_SEQ_02,消滅了<hex:02280EFF09>BNpcName<hex:F0EA0103>。回到巴斯卡隆酒家，向奧菲里奧報告。

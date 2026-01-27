@@ -1,7 +1,7 @@
 ﻿key,0
-#,
+#,Text
 offset,0
-int32,str
+Int32,String
 0,
 1,撐起陽傘
 2,撐起天藍陽傘

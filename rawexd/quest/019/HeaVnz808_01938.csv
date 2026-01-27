@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 offset,0,4
-int32,str,str
+Int32,String,String
 0,TEXT_HEAVNZ808_01938_SEQ_00,田園郡的霍爾皮克斯看起來幹勁十足。
 1,TEXT_HEAVNZ808_01938_SEQ_01,接受了霍爾皮克斯的委託，為了在與青藍之手的領地爭奪中取勝，打倒青藍之手的哥布林族。前往龍堡內陸低地的宗匠大工房，討伐<hex:02280FFF09>BNpcName<hex:F20E0E0103>、<hex:02280FFF09>BNpcName<hex:F20E0F0103>、<hex:02280FFF09>BNpcName<hex:F20E100103>、<hex:02280FFF09>BNpcName<hex:F20E110103>中的任意6名。
 2,TEXT_HEAVNZ808_01938_SEQ_02,討伐了青藍之手的哥布林族。向田園郡的霍爾皮克斯報告。
