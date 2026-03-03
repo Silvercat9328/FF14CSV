@@ -1,4 +1,4 @@
-key,2,3,4
+﻿key,2,3,4
 #,LookupTable,Text,GroupTitle
 offset,8,0,4
 Int32,String,String,String
@@ -2928,11 +2928,11 @@ Int32,String,String,String
 5184,,格萊楊拉波爾殲滅戰,Hell on Rails
 5185,,格萊楊拉波爾殲殛戰,Hell on Rails (Extreme)
 5186,,重量級,Heavyweight
-5187,,,
-5188,,,
+5187,,商客奇譚,The Merchant's Tale
+5188,,異聞商客奇譚,Another Merchant's Tale
 5189,,,
 5190,,沃刻其特（演習戰）,Worqor Chirteh (Triumph)
-5191,,,
+5191,,異變迷宮,Variant Dungeon (Advanced)
 5192,,月讀幻巧戰,Tsukuyomi's Pain (Unreal)
 5193,,,
 5194,,,

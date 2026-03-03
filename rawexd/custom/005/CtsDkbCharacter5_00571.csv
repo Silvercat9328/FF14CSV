@@ -23,7 +23,7 @@ Int32,String,String
 18,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_106,如果還有其他食療能治癒的疾病的話，<hex:02100103>我估計還要拜託你幫忙，<hex:02100103>請再稍等一陣吧……
 19,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_170,水生資源部的貢獻等級提高了！<hex:02100103>弗里斯利克認為你是水生資源部改革的理解者！
 20,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_130,<hex:022903EB0203>，<hex:02100103>謝謝你能來！
-21,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_135,捕魚人的等級達到73級以上時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。
+21,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_135,捕魚人的等級達到73或更高等級時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。
 22,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_150,之前釣到的魚，聽說有效果了！<hex:02100103>從司書開始，在昏暗場所工作的人們，<hex:02100103>都在聊這個話題。
 23,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_151,只要有需求，<hex:02100103>作為水晶都的一員我就會給予提供……<hex:02100103>老練捕魚人們的意識也可能已經開始轉變了！
 24,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_152,還有，關於受其他疾病折磨的患者的事……<hex:02100103>最近，煉金醫療館那邊<hex:02100103>貌似來了很多濕疹患者。
@@ -54,7 +54,7 @@ Int32,String,String
 49,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_243,<hex:022903EB0203>，<hex:02100103>等我調查到有效的食物，我會再跟你說的，<hex:02100103>到時候還請你再協助我！
 50,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_310,水生資源部的貢獻等級提高了！<hex:02100103>弗里斯利克認為你是水生資源部改革的支持者！
 51,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_260,啊，<hex:022903EB0203>！<hex:02100103>你來得正好！<hex:02100103>我有事要告訴你！
-52,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_265,捕魚人的等級達到75級以上時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。
+52,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_265,捕魚人的等級達到75或更高等級時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。
 53,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_290,其實，對頭昏和心悸<hex:02100103>有效果的食物我已經找到了！<hex:02100103>是被稱為<hex:02280BFF05>Item<hex:F2687C0103>的淡水貝！
 54,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_291,但是很遺憾，它們的棲息地並不在始源湖，<hex:02100103>好像雷克蘭德附近並沒有捕捉點……
 55,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_292,根據古代魚類圖鑑，<hex:02100103>它們就棲息在<hex:02100103>曾經的孚布特王國……
@@ -92,7 +92,7 @@ Int32,String,String
 87,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_460,水生資源部的貢獻等級提高了！<hex:02100103>弗里斯利克認為你是水生資源部改革的支援者！
 88,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_400,此外，可以領取中庸工藝館交易的劇情任務了。<hex:02100103>和弗里斯利克對話即可接受任務。
 89,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_420,<hex:022903EB0203>，有好消息！<hex:02100103>羅布認識的那位女性的疾病，<hex:02100103>我找到治療辦法了！
-90,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_425,捕魚人的等級達到78級以上時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。
+90,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_425,捕魚人的等級達到78或更高等級時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。
 91,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_450,羅布曾說她<hex:02100103>眼白變成了黃色，<hex:02100103>還頭昏得厲害來著吧。
 92,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_451,得了黃疸的原因暫時還不清楚，<hex:02100103>雖然文獻很少，不好調查……<hex:02100103>但有司書在協助我，所以調查正有序進行！
 93,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_452,貧血和黃疸，果然也有營養失衡的原因。<hex:02100103>至於用來補充營養的食材嘛……<hex:02100103>據說用脂肪充足的怪魚的肝就可以了。
@@ -121,7 +121,7 @@ Int32,String,String
 116,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_544,如果食療能改善病情的話，<hex:02100103>說不定還要請你幫忙。
 117,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_545,搞不好又要讓你前往危險的地區了……<hex:02100103>請做好十足的準備！
 118,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_549,水生資源部的貢獻等級提高了！<hex:02100103>弗里斯利克認為你是水生資源部改革的牽引者！
-119,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_550,可以領取中庸工藝館交易的劇情任務了。<hex:02100103>捕魚人的等級達到80級以上時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取任務。
+119,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_550,可以領取中庸工藝館交易的劇情任務了。<hex:02100103>捕魚人的等級達到80或更高等級時，<hex:02100103>可以從中庸工藝館的弗里斯利克那裡領取任務。
 120,TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_560,（★未使用／削除予定★）
 121,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_570,嘿，你來玩啦？<hex:02100103>托你的福，水生資源部現在可熱鬧了！<hex:02100103>大家齊心協力，開始在各個地區捕魚了！
 122,TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_575,<hex:022903EB0203>，你能一次又一次<hex:02100103>讓水晶都的人們臉上綻放笑容……<hex:02100103>真是好厲害啊……

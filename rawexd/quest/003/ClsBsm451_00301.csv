@@ -6,7 +6,7 @@ Int32,String,String
 1,TEXT_CLSBSM451_00301_SEQ_01,接受了布瑞賽爾的委託。和利姆薩·羅敏薩鍛鐵匠公會的費茲阿爾談談。
 2,TEXT_CLSBSM451_00301_SEQ_02,和費茲阿爾進行了交談。籌備<hex:022813FF07>ItemHQ<hex:FF08>　1723<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　1796<hex:0103>和<hex:022813FF07>ItemHQ<hex:FF08>　1659<hex:0103>各1件，讓費茲阿爾查看。
 3,TEXT_CLSBSM451_00301_SEQ_03,讓費茲阿爾查看了<hex:022813FF07>ItemHQ<hex:FF08>　1723<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　1796<hex:0103>和<hex:022813FF07>ItemHQ<hex:FF08>　1659<hex:0103>。將<hex:022813FF07>ItemHQ<hex:FF08>　1723<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　1796<hex:0103>和<hex:022813FF07>ItemHQ<hex:FF08>　1659<hex:0103>交給利姆薩·羅敏薩阿斯塔利西亞號的繆麗爾。
-4,TEXT_CLSBSM451_00301_SEQ_04,將<hex:022813FF07>ItemHQ<hex:FF08>　1723<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　1796<hex:0103>和<hex:022813FF07>ItemHQ<hex:FF08>　1659<hex:0103>交給了繆麗爾。繆麗爾收下了裝備，她為能和冒險者這樣真正的手藝人相遇而感動，覺得這是最大的收穫。用她的話激勵自己，繼續磨練自己的鍛鐵本領。<hex:02100103><hex:02100103>※鍛鐵匠的等級達到50級以上時，可以從布瑞賽爾那裡領取下一個鍛鐵匠任務。
+4,TEXT_CLSBSM451_00301_SEQ_04,將<hex:022813FF07>ItemHQ<hex:FF08>　1723<hex:0103>、<hex:022813FF07>ItemHQ<hex:FF08>　1796<hex:0103>和<hex:022813FF07>ItemHQ<hex:FF08>　1659<hex:0103>交給了繆麗爾。繆麗爾收下了裝備，她為能和冒險者這樣真正的手藝人相遇而感動，覺得這是最大的收穫。用她的話激勵自己，繼續磨練自己的鍛鐵本領。<hex:02100103><hex:02100103>※鍛鐵匠的等級達到50或更高等級時，可以從布瑞賽爾那裡領取下一個鍛鐵匠任務。
 5,TEXT_CLSBSM451_00301_SEQ_05,
 6,TEXT_CLSBSM451_00301_SEQ_06,
 7,TEXT_CLSBSM451_00301_SEQ_07,
