@@ -1,5 +1,5 @@
 ﻿key,1,2
-#,,
+#,Name,
 offset,0,4
 Int32,String,String
 0,,
@@ -28,3 +28,6 @@ Int32,String,String
 23,OCCULT CRESCENT,新月島解說
 24,COSMO EXPLORER,宇宙探索說明
 25,STRATEGY BOARD,戰術板說明
+26,SIGHTSEEING LOG,探索筆記解說
+27,CUSTOM DELIVERIES,老主顧交易解說
+28,,
